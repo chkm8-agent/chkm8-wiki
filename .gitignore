@@ -1,6 +1,6 @@
 # Raw collector dumps (regenerated daily; third-party data)
 /raw/
-# Household budget emails: private, stay local
+# Private issues: stay local
 /budget/
 # Rendered copies of the markdown pages
 *.png

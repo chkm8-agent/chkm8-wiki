@@ -10,7 +10,7 @@ entry point and `log.md` the change log.
 - `digests/`: daily market digests (markdown)
 - `signals.json`: watchlist signals scored by the digest collector
 
-Rendered HTML/PNG copies, raw collector JSON (`raw/`) and household budget emails (`budget/`) are
+Rendered HTML/PNG copies, raw collector JSON (`raw/`) and private issues are
 gitignored.
 
 New pages and digests are committed and pushed daily at 07:45 PT by the Hermes cron job

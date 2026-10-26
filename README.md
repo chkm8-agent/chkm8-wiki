@@ -10,3 +10,6 @@ entry point and `log.md` the change log.
 
 Rendered HTML/PNG copies, raw collector JSON (`raw/`) and household budget emails (`budget/`) are
 gitignored.
+
+New pages and digests are committed and pushed daily at 07:45 PT by the Hermes cron job
+"git autopush" (`~/.hermes/scripts/chkm8_git_autopush.sh`), through the same leak checks as manual commits.

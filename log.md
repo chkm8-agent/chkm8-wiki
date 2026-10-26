@@ -235,3 +235,13 @@
 - created chains/2026-10-25.md
 - updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md
 - signals.json unchanged (no radar picks; LOBO rune meme, PEPE squeeze retrace, ENA/LIT no catalyst, ZANO/ARRR bleeding)
+
+## [2026-10-26] ingest | morning digest 2026-10-26
+- created digests/2026-10-26.md, tokens/qnt.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, tokens/bat.md (log lines), topics/agentic-ai.md (weekly log), index.md (page count 69)
+- signals.json unchanged (no new spot/perp ideas; QNT watch-only 3.5/6, no revenue until Clearing House rail goes live ~2027, fails mandatory revenue gate; PEARL skipped, identity ambiguity across CoinGecko listings; ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open)
+
+## [2026-10-26] ingest | Five Chains 2026-10-26
+- created chains/2026-10-26.md
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (Five Chains section + zec summary)
+- signals.json unchanged (no radar picks; QNT already flagged watch-only in today's market digest, fails revenue gate)

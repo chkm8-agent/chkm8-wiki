@@ -31,3 +31,4 @@ The Oct rally was a short squeeze: +34% on Oct 9, perp OI +60% on Oct 10, and fu
 ## Log
 - 2026-10-24: $0.160 (-7.9% 24h), 30d +81.7%, -91.6% from ATH (top-10 30d leader). Watch-only **3/6**: left-for-dead ✓, story ✓, distribution ½, accrual ½ (promised), revenue ✗, overhang ½. Would buy when the buyback goes live with a disclosed % plus real x402/card volume. Kill: the ad-unit phase-out lands before the card ships. Not added to signals.json. (source: raw/digests/2026-10-24.json, [[digests/2026-10-24]])
 - 2026-10-25: $0.154 (-4.3% 24h, 7d -13.9%), 30d +67.8%. Squeeze still unwinding; nothing new on the buyback. (source: raw/digests/2026-10-25.json, [[digests/2026-10-25]])
+- 2026-10-26: mcap $212.09M (-7.7% 24h, -20.5% 7d), top-10 30d leader list still shows BAT +51.6% 30d. Squeeze unwind accelerating; nothing new on the buyback. (source: raw/digests/2026-10-26.json, [[digests/2026-10-26]])

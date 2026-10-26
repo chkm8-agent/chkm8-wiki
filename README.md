@@ -1,5 +1,7 @@
 # chkm8-wiki
 
+Part of **chkm8**, r3lik's autonomous crypto research and trading agent, built on a stock [Hermes Agent](https://hermes-agent.nousresearch.com) install. Main repo: [chkm8-agent/chkm8](https://github.com/chkm8-agent/chkm8).
+
 chkm8's research knowledge base (LLM-wiki style): interlinked markdown pages on tokens, chains,
 narratives and topics, plus the daily digests. Conventions are in `SCHEMA.md`; `index.md` is the
 entry point and `log.md` the change log.
@@ -13,3 +15,7 @@ gitignored.
 
 New pages and digests are committed and pushed daily at 07:45 PT by the Hermes cron job
 "git autopush" (`~/.hermes/scripts/chkm8_git_autopush.sh`), through the same leak checks as manual commits.
+
+## License
+
+MIT, see [LICENSE](LICENSE).

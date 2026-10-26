@@ -1,0 +1,143 @@
+[
+  {
+    "date": "2026-09-30",
+    "symbol": "SOON",
+    "coingecko_id": "soon-2",
+    "direction": "short",
+    "price": 0.467327,
+    "thesis": "+139% 7d blow-off with 24h vol ($177M) exceeding mcap ($159M): churn, not conviction; expect mean reversion.",
+    "invalidation": "close above 0.56",
+    "horizon_days": 7
+  },
+  {
+    "date": "2026-10-01",
+    "symbol": "QNT",
+    "coingecko_id": "quant-network",
+    "direction": "short",
+    "price": 266.42,
+    "thesis": "+255% 7d parabolic on a $3.87B large cap, now -8% 24h while trending on CoinGecko: blow-off losing momentum, expect retrace.",
+    "invalidation": "close above 320",
+    "horizon_days": 7
+  },
+  {
+    "date": "2026-10-02",
+    "symbol": "AERO",
+    "coingecko_id": "aerodrome-finance",
+    "direction": "long",
+    "price": 0.786618,
+    "thesis": "Top Base DEX, Slipstream revenue +238% m/m ($13.7M/30d), 100% fees to veAERO; Aero merger with Velodrome Oct 21 (cross-chain incl. Robinhood Chain); ~70% off highs. Playbook 5/6.",
+    "invalidation": "merger delayed again past Oct 21, or close below 0.62",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-02",
+    "symbol": "SKY",
+    "coingecko_id": "sky",
+    "direction": "long",
+    "price": 0.091069,
+    "thesis": "Galaxy Digital put $100M sUSDS in treasury + bought SKY; Smart Burn Engine bought back 7.76% of circulating; synthetic-dollar sector leading. Playbook 4/6.",
+    "invalidation": "further buyback cut or sUSDS supply shrinking; close below 0.075",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-02",
+    "symbol": "SAND",
+    "coingecko_id": "the-sandbox",
+    "direction": "short",
+    "price": 0.068609,
+    "thesis": "+59% 24h on Korean exchanges lifting caution flag (post Aug 14.9B unbacked-mint exploit): one-off relisting relief, vol $414M ~2x mcap = churn; expect fade.",
+    "invalidation": "close above 0.085",
+    "horizon_days": 7,
+    "kind": "perp"
+  },
+  {
+    "date": "2026-10-03",
+    "symbol": "RAY",
+    "coingecko_id": "raydium",
+    "direction": "long",
+    "price": 2.06,
+    "thesis": "Raydium AMM revenue +262% m/m after StonkFun + tokenized-stock listings replaced lost Pump.fun flow; 12% of fees buy RAY daily (+25% LaunchLab buy-burn), mint disabled, no VC cliff; -88% from ATH. Playbook 5/6.",
+    "invalidation": "30d revenue falls back under $3M, or close below 1.50",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-03",
+    "symbol": "UNI",
+    "coingecko_id": "uniswap",
+    "direction": "long",
+    "price": 9.15,
+    "thesis": "UNIfication fee switch: all protocol fees -> TokenJar -> buy+burn UNI; v4 + Robinhood Chain fees on since Jul 27, Robinhood Chain ~72% of protocol revenue; Uniswap V3 revenue +52% m/m. Playbook 4/6.",
+    "invalidation": "Robinhood Chain volume/revenue collapses after the Sep 29 gas-subsidy end, or close below 6.50",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-04",
+    "symbol": "PUMP",
+    "coingecko_id": "pump-fun",
+    "direction": "long",
+    "price": 0.0062691,
+    "thesis": "Pump.fun burns 50% of revenue via open-market buys (~$470M spent, ~17% of supply burned); SEC buyback FAQ (Sep 25) adds legal cover; $34.8M/30d revenue",
+    "invalidation": "daily buyback < $0.5M for a week, 30d revenue keeps falling while launchpad share goes to StonkFun/Pons, or close below 0.0045",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-05",
+    "symbol": "FLUID",
+    "coingecko_id": "instadapp",
+    "direction": "long",
+    "price": 2.14,
+    "thesis": "Lending+DEX liquidity layer ~91% below ATH, fully vested (83.7% circ), Fluid Reserve buyback (paused after May bad debt, restart tied to ~$10M ann. revenue), Jupiter Lend Smart Debt + Kinetic 10% open-market buy plan. Playbook 4/6. Entry ideally on retest of 1.70-1.80.",
+    "invalidation": "close below 1.40, new bad debt/exploit, or buybacks still paused by end of horizon",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-05",
+    "symbol": "ENA",
+    "coingecko_id": "ethena",
+    "direction": "short",
+    "price": 0.251548,
+    "thesis": "~1.41B ENA (~10% of mcap) investor tokens reportedly released Oct 5, 17 months early; price +6.5% into it and Lighter longs pay +0.149%/hr (~15x Binance): unlock supply + crowded longs, funding pays the short.",
+    "invalidation": "close above 0.29",
+    "horizon_days": 7,
+    "kind": "perp"
+  },
+  {
+    "date": "2026-10-06",
+    "symbol": "ZRO",
+    "coingecko_id": "layerzero",
+    "direction": "long",
+    "price": 2.2,
+    "thesis": "LayerZero open-market buybacks live (2.538M ZRO/~$5.4M cum.), ATLAS exchange backend to send 75% of post-rebate fees to buy+burn ZRO (launch 'later this year'), ~70% below ATH. Playbook 4/6. Entry ideally after Oct 20 unlock (23.08M ZRO/month through Jun 2027).",
+    "invalidation": "close below 1.50, or ATLAS launch slips into 2027",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-08",
+    "symbol": "MET",
+    "coingecko_id": "meteora",
+    "direction": "long",
+    "price": 0.458207,
+    "thesis": "Meteora DLMM revenue +85% m/m (Solana DEX revenue day 4), protocol fee share doubled 5%->10% without LP loss, discretionary buybacks (36M MET, 3.9% supply), LIBRA suit dismissed. Playbook 3.5/6. Ideal entry on pullback to 0.38-0.40; spot vol > mcap on signal day.",
+    "invalidation": "close below 0.33 or DLMM revenue m/m turns negative",
+    "horizon_days": 60,
+    "kind": "spot"
+  },
+  {
+    "date": "2026-10-08",
+    "symbol": "STRK",
+    "coingecko_id": "starknet",
+    "direction": "short",
+    "price": 0.059735,
+    "thesis": "+96% 30d / +22.6% 24h on CT influencer thread + 100-BTC bridge-fee subsidy, still -98.6% from ATH; 127M STRK unlock Oct 15. Blow-off + unlock short (best-performing signal category).",
+    "invalidation": "close above 0.072",
+    "horizon_days": 10,
+    "kind": "perp"
+  }
+]

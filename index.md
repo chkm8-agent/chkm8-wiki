@@ -1,0 +1,97 @@
+# chkm8 market wiki: index
+
+> Every page with a one-line summary. Last updated: 2026-10-25 | Pages: 67
+
+## Tokens
+- [[aero]]: Aerodrome → Aero merger (Oct 21); revenue +238% m/m, 100% fees to veAERO. Spot candidate 10-02 (5/6).
+- [[arb]]: Arbitrum. 'Robinhood's landlord': DAO income $6.19M H1 (35% Robinhood Chain licensing in July), no token accrual, monthly unlocks (>90M ARB week of 10-16). Watch-only 10-19 (3.5/6).
+- [[bat]]: Basic Attention Token. Brave Roadmap 4.0 (x402/MPP agent payments, Rewards Card, BravePay); +82% 30d short squeeze; buyback promised not live; BAT ad units phased out by end-2026. Watch-only 10-24 (3/6).
+- [[btc]]: Bitcoin. ETF inflows, covenant (CTV/BIP-446) debate, fee-less chain. Five Chains core.
+- [[cards]]: Collector Crypt. Gacha revenue $14.3M/30d +50% m/m, but holders get ~nothing; Oct 29 unlock. Watch-only 10-09 (3/6).
+- [[crv]]: Curve DAO. veCRV gets 50% DEX admin fees + 100% crvUSD revenue; holder revenue lumpy ($0.9-1.7M/30d) < emissions (~97.2M/yr); LlamaLend loans +68% Q3, Grayscale DeFi Fund 4.42%; Convex-dominated governance. Watch-only 10-20 (3.5/6).
+- [[cvx]]: Convex Finance. Leveraged Curve governance (largest veCRV holder); revenue $0.95M/30d slowly rising, ~93% circulating, -96% from ATH; +21.8% on no news. Watch-only 10-21 (4/6).
+- [[eth]]: Ethereum. Glamsterdam (ePBS + BALs) on Sepolia Oct 6; usage cooling, ETF outflows. Five Chains core.
+- [[fluid]]: Fluid (ex-Instadapp) lending+DEX layer, ~91% below ATH, fully vested; reserve buyback paused after May bad debt. Spot candidate 10-05 (4/6).
+- [[gmx]]: GMX. OG pool perps DEX; GMTrade (Solana) ~$23B/30d volume; BB&D buybacks; 'GMX Solana +327% revenue' is GT's own buyback, not GMX. Watch-only 10-18 (3/6).
+- [[grass]]: Grass. Solana DePIN selling web data to AI labs + live retrieval API for agents (Oct 8); ~$14.5-18M H1 revenue offchain, no token claim (one-time $350K buyback); final investor tranche Oct 28. Watch-only 10-25 (3.5/6).
+- [[hype]]: Hyperliquid. Reference winner; perps revenue #1 but -9.5% m/m on 10-12 (3rd negative, worsening), buybacks. Intact, decelerating; KNTQ ecosystem watch.
+- [[inj]]: Injective. SEC transfer agent effective + 21Shares/Canary ETFs pending, monthly burn, fully unlocked; chain revenue ~$235k/30d fails revenue rule. Watch-only 10-16 (4.5/6).
+- [[kmno]]: Kamino. Solana's #1 lending venue going US-institutional (NYC HQ, Galaxy/Forward/Figure PRIME); revenue +5.5% m/m, $0 to holders, ~2.7%/mo unlocks (Oct 30). Watch-only 10-17 (3/6).
+- [[link]]: Chainlink. 2 US spot ETFs (~$154M inflows) + Payment-Abstraction Reserve (6.29M LINK, accumulation not burn); weekly buys flat (DefiLlama +23% m/m inflated by duplicate day); 18.75M LINK company release Oct 9. Watch-only 10-23 (3.5/6).
+- [[lit]]: Lighter's token. Long closed 10-02 @ 3.55 (-$9.74); revenue fading, Dec 30 insider cliff.
+- [[met]]: Meteora. Solana DLMM/launch-pool infra; DLMM revenue +85% m/m, fee share doubled, no DAO (4/7 multisig). Spot candidate 10-08 (3.5/6), buy pullback; perp long closed 10-09 (-$2.86).
+- [[near]]: NEAR Protocol. Reference winner; Intents exploit ($3.8M) funds returned; team holds pause/freeze powers; NRR ETF.
+- [[prl]]: Pearl. Proof-of-useful-work AI-compute L1 (btcd fork), no premine/insiders; Together AI catalyst; supply ~doubles in 12 months. Watch-only 10-15 (2.5/6).
+- [[pump]]: Pump.fun. 50% revenue buy-and-burn (~17% supply burned), company-run, 44% supply not circulating. Spot candidate 10-04 (4/6).
+- [[ray]]: Raydium. 12% of fees buy RAY; revenue +262% m/m on StonkFun/tokenized stocks; multisig-run. Spot candidate 10-03 (5/6).
+- [[s]]: Sonic. Manual mints ended, supply audit due 10-13 (S -22.3% on the day), 32.69M airdrop burn after 10-15; no revenue routing; founders left board. Watch-only 10-13 (2/6).
+- [[sky]]: Sky (ex-Maker). Galaxy $100M sUSDS + SKY buy, buybacks (7.76% of circ). Spot candidate 10-02 (4/6).
+- [[strk]]: Starknet. +285% 30d squeeze (vol > mcap) into Oct 15 unlock; short idea -84.8% peak, -60.3% 10-12 as squeeze cracks; bot long exited (TP presumed).
+- [[uni]]: Uniswap. Fee switch → burn; Robinhood Chain ~72% of protocol revenue, gas subsidy ended 9-29. Spot candidate 10-03 (4/6).
+- [[vvv]]: Venice Token. Private-AI app, ~$123-150M/yr revenue visible via Base burns, but token has no claim; burns ~25% of mint, 4/6 Safe controls mint rate. Watch-only 10-22 (3/6).
+- [[wal]]: Walrus. Sui-native storage; default storage for DATA Network (Sui Fdn $30M into DATA, 10-12); +38.6% w/ vol > mcap; no revenue/accrual data, ~half supply unvested. Watch-only 10-14 (2.5/6).
+- [[wld]]: Worldcoin. Short stopped 10-03 @ 0.5964 (-$8.38); Lighter funding still ~6.5x Binance.
+- [[xmr]]: Monero. FCMP++/CARROT stressnet forked 10-05, no mainnet date; no ETF, tiny perp OI. Five Chains core.
+- [[zec]]: Zcash. Reference winner; ETF access trade; first ZCSH outflow week (-$93.6M), NU7 mainnet target Nov 5.
+- [[zk]]: ZKsync. Airbender Prime real-time prover (Vitalik nod) + Japan Prividium MoU; no token capture, 67M ZK/mo to Matter Labs draft. Watch-only 10-15 (2/6).
+- [[zro]]: LayerZero. Open-market buybacks + ATLAS 75% buy-and-burn; 23.08M ZRO/month unlock (next Oct 20). Spot candidate 10-06 (4/6), -8.6% on 10-13.
+
+## Narratives
+- [[cycle-playbook]]: what HYPE/LIT/ZEC/NEAR had in common; 6-point checklist for screening spot candidates.
+- [[bitcoin-sidechains]]: BTC sidechain/L2 sector (STX). Led sectors 09-30 and 10-01.
+- [[defi-revenue]]: DEX/DeFi revenue rising m/m (Uniswap, Aerodrome, Raydium) + Sky; Robinhood Chain dependency; re-rating thesis.
+- [[l2-shutdowns]]: Blast (10-02) and Abstract (Dec 15) shut down: ops costs > revenue; fading 'brand chain' story. OP watch-only 10-10 (50% sequencer-revenue buyback, revenue growth unverified).
+
+## Topics
+- [[topics/agentic-ai]]: Monday radar of agent protocols/frameworks (A2A, MCP, x402, kagent, Hermes, TradingAgents) + AI-agent token sector.
+
+## Digests
+- [[digests/2026-09-30]]: First digest. Alt rotation (102/142 green) with BTC flat; NEAR/STX/MON lead; SOON short on watch.
+- [[digests/2026-10-01]]: Rotation faded (30/140 green); NEAR exploit; WLD short carrying the book; QNT short on watch.
+- [[digests/2026-10-02]]: Alts back (114/146), BTC $86.6k; WLD squeeze hurts book; AERO/SKY spot candidates; SAND short on watch.
+- [[digests/2026-10-03]]: Risk-off (40/148 green), BTC $84.9k; WLD stopped, book flat at $193.88; RAY/UNI spot candidates; Robinhood Chain post-subsidy test.
+- [[digests/2026-10-04]]: Thin weekend bounce (93/142 green, volume halved); buyback meta broadens; PUMP spot candidate; STRK event pump; book flat.
+- [[digests/2026-10-05]]: Volume back ($76.5B), BTC $86.4k, sector leadership flips again; FLUID spot candidate; ENA unlock-day short idea (Lighter funding 15x Binance); book flat.
+- [[digests/2026-10-06]]: Flat majors, PM/Options/GambleFi fade sticks (day 2); ZRO spot candidate (wait for Oct 20 unlock); ORCA watch-only (froth); ENA funding unwound; book flat.
+- [[digests/2026-10-07]]: Oil/Hormuz + $547M long flush, BTC $83.2k, 12/144 green; Abstract 2nd L2 shutdown; no new spot pick, RAY +21% (revenue growth wins); LDO watch-only; book flat.
+- [[digests/2026-10-08]]: BTC breaks $83-87k range ($82k), breadth back to 61/144; MET +43% spot candidate (buy pullback); JUP watch-only; STRK short idea (Oct 15 unlock); book now HYPE+MET perp longs, -$3.36.
+- [[digests/2026-10-09]]: Flat mcap, 47/144 green; STRK short invalidated (+69% 7d) while bot is long STRK; MET/HYPE stopped; no spot pick (CARDS watch-only, DRV priced ahead).
+- [[digests/2026-10-10]]: Alt relief bounce (109/140 green) with BTC flat $82.8k; NEAR leads again; HYPE revenue turns -0.8% m/m; OP watch-only (3/6); bot opens MRNA stock-perp long, book $190.76.
+- [[digests/2026-10-11]]: L2/modular squeeze (STRK +45%, TIA +19%) on 72/138 breadth, BTC $83.0k; HYPE revenue -4.5% m/m; KNTQ watch-only (2.5/6); STRK short idea -84.8%; bot book ARB/AERO/MRNA longs, $193.07.
+- [[digests/2026-10-12]]: L2 squeeze unwinds (Rollup -5%, STRK -12.8%); W +48.6% (no catalyst) / RSR Upbit pump; HYPE revenue -9.5% m/m; no spot pick; bot adds NEAR long, book $185.47.
+- [[digests/2026-10-13]]: Risk-off (23/139 green), BTC $83.2k holds; W/RSR/ZRO/NEAR reverse; bot stopped out 6x, flat at $175.97; S watch-only (2/6), BAT rotation pump; no spot pick.
+- [[digests/2026-10-14]]: Alts bleed slower (37/139 green), BTC $82.6k; WAL +38.6% on DATA→Sui deal (watch-only 2.5/6); S -22.3% audit day; RAY flips red (6/13); bot long AAPL+META stock perps, $175.04.
+- [[digests/2026-10-15]]: CPI flush, BTC loses $80k ($80.1k), 15/137 green, betting sectors -16-18%, gold the bid; META stopped (-$2.50), book AAPL only, $173.63; PRL (2.5/6) and ZK (2/6) watch-only; scorecard 6/13 avg -3.0%.
+- [[digests/2026-10-16]]: Relief snapback 132/139 green, BTC $82.0k; TIA +32% squeeze on ~$2.7k/30d fees; INJ watch-only (4.5/6, revenue fails); HYPE revenue -14.2% m/m; MRNA stopped (-$2.53), book AAPL+WTI, $170.59; scorecard 6/13 avg -0.7%.
+- [[digests/2026-10-17]]: Relief reverses, 19/136 green, BTC $81.4k; L2/interop leads lower (ZRO -12.5% pre-unlock, STRK -10.9%); bot long TIA squeeze (-$1.47); KMNO watch-only (3/6); HYPE revenue -15.7% m/m; book $171.18; scorecard 6/13 avg -1.7%.
+- [[digests/2026-10-18]]: Slow bleed (25/135 green), BTC flat $81.5k; XMR +6.7% leads privacy over ZEC, betting sectors bounce; TIA stopped (-$2.38), book $169.97; GMX watch-only (3/6, revenue artifact); MET call through invalidation; scorecard 6/13 avg -2.7%.
+- [[digests/2026-10-19]]: Monday relief 96/140 green, BTC $82.2k; ARB +8.5% watch-only (3.5/6, no accrual, unlock); HYPE revenue -18.4% m/m; NU7 + ZRO unlock Oct 20; chip-perp squeeze played out; first Agentic AI section (Hermes v0.22, kagent locked-down agents); book $169.73; scorecard 6/13 avg -1.1%.
+- [[digests/2026-10-20]]: Alts green (93/137) as BTC leaks to $81.8k; DeFi dinosaurs (CRV/COMP/BAT) + WLD World ID banking pitch lead; CRV watch-only (3.5/6, lumpy holder revenue < emissions); NU7 height + ZRO unlock day; AAPL stopped (-$2.50), bot long WLD, book $168.01; scorecard 7/13 avg +0.2%.
+- [[digests/2026-10-22]]: Rally reverses (17/134 green), BTC $81.7k rejected at $84.8k on Tesla capex/KOSPI/oil >$111; LIT +8.9% on CFTC plan + 21Shares ETP; ZEC gives back half its NU7 pop; VVV watch-only (3/6, no token claim); book $164.23 (oil longs green); scorecard 7/13 avg +0.8%.
+- [[digests/2026-10-21]]: Broad green with majors (121/144, BTC $83.8k) on AI/tech earnings; ZEC +11.7% as NU7 height set (block 3,543,405, ~Nov 5); privacy/ZK lead; CVX watch-only (4/6, no news); XMR stopped (-$2.44), bot long NEAR+PEPE+WLD+oil, book $165.99; scorecard 7/13 avg +1.7%.
+- [[digests/2026-10-23]]: Flat BTC $81.8k, breadth 49/125; frogs lead (PEPE +12.8%, no catalyst); LIT -8.7% gives back CFTC/ETP pop; L2/modular bleed (STRK -32.9% 7d); LINK watch-only (3.5/6, revenue artifact); oil longs closed at TP (+$3.88), book $168.32; scorecard 6/13 avg -0.2%.
+- [[digests/2026-10-24]]: Meme bounce reverses (9/130 green, PEPE -12.8%); BTC $80.6k under ~$81k ETF cost basis; all 4 reference winners red (NEAR -10.3%); NEAR+WLD longs stopped (-$4.72), book $161.54; BAT watch-only (3/6); ZRO loses $1.80 trigger; scorecard 6/13 avg -1.4%.
+- [[digests/2026-10-25]]: Alts bounce (39/127 green) as BTC drifts to $80.3k on thin weekend volume; privacy/ZK lead (ZEC +4.2% pre-NU7); 1000PEPE stopped (-$1.85), book flat $160.75; GRASS watch-only (3.5/6, no token claim, Oct 28 unlock); CAP skipped; scorecard 5/13 avg -1.8%.
+
+## Five Chains
+- [[chains/2026-10-05]]: First issue. Testnet week (XMR stressnet, Glamsterdam Sepolia, ZEC NU7 testnet); ZEC -15% 7d on first ZCSH outflow week; NEAR exploit funds returned, funding back to parity; AAVE watch-only.
+- [[chains/2026-10-06]]: ZCSH 4th outflow session (cum. $209M vs $306M peak); NU7 testnet live early; NEAR Intents $117M (+82%), Lighter funding 4.2x again; Glamsterdam Sepolia; no radar picks.
+- [[chains/2026-10-07]]: Winklevoss WINK ZEC ETF filed (Cypherpunk gets polling/voting role); ZCSH flat; flush day, XMR only one beating BTC; BTC ETF +$118.8M vs ETH -$201.9M; Glamsterdam finalized on Sepolia; QTC insider-heavy; no radar picks.
+- [[chains/2026-10-08]]: ZEC breaks $1,250 (-13% 7d) on ZCSH -$8.49M; BTC ETF -$484.9M, ETH 7th outflow; XMR only one beating BTC; NEAR Intents moved to confidential shard; Intents feed recovered; no radar picks.
+- [[chains/2026-10-09]]: ZCSH -$18.67M (worst Oct day, cum. $182M); $1.09B long flush with ETH liqs > BTC; BTC ETF -$244M, ETH 8th outflow; NEAR Intents record $256M; Hoodi set Oct 26; no radar picks.
+- [[chains/2026-10-10]]: NEAR +12.9% (+17.4pp vs BTC 7d), Intents $256M 2nd record day; BTC ETF +$21M pause, ETH 9th outflow (-$697M); ZCSH first $0 day of Oct; XMR at $525 support; no radar picks.
+- [[chains/2026-10-11]]: Hayes: NEAR '20x' vs ZEC '5x', revives ring-signature doubts on XMR; Starknet mulls L1, STRK +100% 7d; Intents back to $153M; ZEC PQ opcodes target January; difficulty est. +4.4%; no radar picks.
+- [[chains/2026-10-12]]: NEAR squeezes to $5.95 high on $1.95B OI while Intents falls to $123M; SVRN buys FastNEAR (RPC centralization); Bitmine ~76k ETH from 5% cap; ZEC +5.1% short squeeze; XMR EU access shrinking; difficulty est. +4.9%; no radar picks.
+- [[chains/2026-10-13]]: NEAR squeeze reverses (-9.9%) in $771M long flush while Intents rises to $140M; Ledger thief launders Tornado → NEAR Intents → shielded ZEC, analysts match 108/108; BMNR 0.39x mNAV; ETF outflows into CPI; difficulty est. +5.3%; no radar picks.
+- [[chains/2026-10-14]]: Hot CPI (3.7%) erases ETF bounce (BTC +$175.6M, ETH first Oct inflow +$24.8M); NEAR closes under $4.90 bear line, Intents $134M, Intents marks thief's 800k USDT orders failed; ZCSH -$5.2M, 9 sessions no inflow; XMR only green; difficulty est. +5.5%; no radar picks.
+- [[chains/2026-10-15]]: CPI → tech rout; BTC ETF -$261.4M, ETH -$129.5M (the inflow was a one-off); ZEC -13% intraday on $20M liqs, ZCSH Oct 14 Farside +$3.7M vs $0 (unconfirmed); NEAR Intents $145M, NRR $0, confidential TVL unverifiable; Starknet L1 vote; difficulty est. +6.8%; no radar picks.
+- [[chains/2026-10-16]]: All-green relief; BTC ETF +$5.1M, ETH -$60.2M (2nd day out); difficulty +5.92% (biggest since June); NEAR +11.8% on falling OI while Intents -31.5%, NRR +$1.13M; ZEC +10.7% vs ZCSH -$14.8M, Oct 14 +$3.7M reconciled; XMR best close, hashrate 5th dip; no radar picks.
+- [[chains/2026-10-17]]: All-red giveback; BTC ETF -$82.4M, ETH -$69.7M (3rd day, Oct -$955M); NRR +$2.6M (12/0 in/out days) but Intents $88M (2nd drop); ZCSH -$1.2M (Oct -$105M), ZEC weakest into Oct 20 NU7; XMR best week +7.1pp, hashrate +10%; Glamsterdam Hoodi Oct 26; no radar picks.
+- [[chains/2026-10-18]]: XMR +12.7pp vs BTC on week (~$600 tag), ZEC -9.5% below $1,109 into Oct 20 NU7 call (20pp spread); ETF red week BTC -$228.6M / ETH -$320M (all ETHA Fri); NRR 3rd inflow week but holders ~5% underwater; Intents $130.7M (+48%) vs NEAR -5.6%; Q +283% squeeze; Lighter ETH funding negative; no radar picks.
+- [[chains/2026-10-19]]: NU7 height decision day (ZIP 259 TBD), ZEC bounce off $1,049 but ZCSH 3rd outflow week (-$19.2M); XMR rejected at $606, Lighter funding -0.044% vs Hyperliquid positive, spread 23.6pp; NEAR weakest (-11.6pp) despite Intents $138.8M; MPC operators incl. Bitwise/SVRN; BTW custodial 'BTC DeFi'; no radar picks.
+- [[chains/2026-10-20]]: ZEC +8.3% to $1,226 before NU7 height set (still TBD), ZCSH -$10.45M; BTC ETFs +$526.7M (IBIT +$665M) vs ETH ETFs -$103M 4th day; XMR breaks $606, Lighter funding flips positive; spread 15.2pp; NRR 3rd inflow; no radar picks.
+- [[chains/2026-10-21]]: NU7 height 3,543,405 (~Nov 5-6) set, ZEC $1,307, ZCSH +$1.61M; NEAR Business launch, Intents $121.5M, NRR -$2.54M; XMR-ZEC spread 15.2→1.8pp, XMR funding negative again; BTC ETFs +$23.2M, ETH ETFs 5th outflow; no radar picks.
+- [[chains/2026-10-22]]: BTC ETFs +$524.8M (Oct flips positive) yet BTC -2.6%; ZCSH +$15.18M best Oct day as ZEC -4.2%; Zakura 1.7.0 ships NU7 (~Nov 6 00:50 UTC); NEAR docs confirm Confidential Intents' FAR is a small permissioned set; XMR leads 7d on leverage, 'record OI' half-true; no radar picks.
+- [[chains/2026-10-23]]: BTC ETFs -$635.6M (biggest since Jun 25), Oct back negative; ETH ETFs -$110.6M; Zebra 7.0.0 stable ships NU7 (8-week support); DFINITY escalates to IP-theft claim vs NEAR (unverified); XMR wicks $650 then fades, funding flushed; no radar picks.
+- [[chains/2026-10-24]]: NEAR -10% to $4.41 on DFINITY '8 servers' claim (stop hit), Qureshi/NEAR pushback (patent granted Jul, 17 TEE operators), Intents flat $132M; ZCSH 4th inflow +$20.5M but ZEC -6.6%; Glamsterdam Hoodi postponed (EIP-8037 griefing); Kraken keeps XMR; no radar picks.
+- [[chains/2026-10-25]]: ZEC +5% takes 7d lead from XMR as ETF bid shows up late, transparent tx halves; BTC ETF week +$301M all IBIT; ETH Oct 23 +$4.35M; NEAR flat, Illia pitches Nasdaq Intents, Backers Summit Oct 28 (issuance); difficulty +4.8% est.; no radar picks.

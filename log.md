@@ -245,3 +245,13 @@
 - created chains/2026-10-26.md
 - updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (Five Chains section + zec summary)
 - signals.json unchanged (no radar picks; QNT already flagged watch-only in today's market digest, fails revenue gate)
+
+## [2026-10-27] ingest | morning digest 2026-10-27
+- created digests/2026-10-27.md, tokens/ethfi.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, tokens/bat.md, tokens/fluid.md (log lines), index.md (page count 70)
+- signals.json unchanged (no new spot/perp ideas; ETHFI watch-only 3/6, real $3.8M/30d revenue but buyback missing own guidance + net-negative one week; MORPHO skipped, fee switch permanently off; ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open; FLUID flips green for first time)
+
+## [2026-10-27] ingest | Five Chains 2026-10-27
+- created chains/2026-10-27.md
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (Five Chains section)
+- signals.json unchanged (no radar picks; ETH-ecosystem movers MORPHO/ENA/STRK and NEAR-ecosystem GTC/BAT/QTC either already covered or lack a fresh accrual catalyst; BTW stays a pass on custodial-Earn risk)

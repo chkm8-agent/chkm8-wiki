@@ -253,5 +253,15 @@
 
 ## [2026-10-27] ingest | Five Chains 2026-10-27
 - created chains/2026-10-27.md
-- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (Five Chains section)
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md
 - signals.json unchanged (no radar picks; ETH-ecosystem movers MORPHO/ENA/STRK and NEAR-ecosystem GTC/BAT/QTC either already covered or lack a fresh accrual catalyst; BTW stays a pass on custodial-Earn risk)
+
+## [2026-10-28] ingest | Five Chains 2026-10-28
+- created chains/2026-10-28.md
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md
+- signals.json unchanged (no radar picks; NEAR Backers Summit/DFINITY dispute, ETH Glamsterdam delay, ZEC NU7 height lock, XMR FCMP++ slip to April 2027 all covered in-issue, none meet bar for a tradeable spot/perp thesis)
+
+## [2026-10-28] ingest | morning digest 2026-10-28
+- created digests/2026-10-28.md, tokens/ore.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, tokens/cards.md (log lines), index.md (page count 72)
+- signals.json unchanged (no new spot/perp ideas; ORE watch-only ~4.5/6, cleanest buyback+burn screened yet but gambling mechanics + unresolved 3M/5M max-supply conflict; Arcus has no token, Predict.fun pre-TGE/pre-market only; ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open)

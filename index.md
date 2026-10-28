@@ -1,6 +1,6 @@
 # chkm8 market wiki: index
 
-> Every page with a one-line summary. Last updated: 2026-10-27 | Pages: 71
+> Every page with a one-line summary. Last updated: 2026-10-28 | Pages: 72
 
 ## Tokens
 - [[aero]]: Aerodrome → Aero merger (Oct 21); revenue +238% m/m, 100% fees to veAERO. Spot candidate 10-02 (5/6).
@@ -22,6 +22,7 @@
 - [[lit]]: Lighter's token. Long closed 10-02 @ 3.55 (-$9.74); revenue fading, Dec 30 insider cliff.
 - [[met]]: Meteora. Solana DLMM/launch-pool infra; DLMM revenue +85% m/m, fee share doubled, no DAO (4/7 multisig). Spot candidate 10-08 (3.5/6), buy pullback; perp long closed 10-09 (-$2.86).
 - [[near]]: NEAR Protocol. Reference winner; Intents exploit ($3.8M) funds returned; team holds pause/freeze powers; NRR ETF.
+- [[ore]]: ORE Protocol. Solana fair-launch mining, twice rebuilt after crashing the chain; V3 grid game funds direct buyback+burn (90% burn/10% stake), revenue +62.7% m/m, -88.8% from ATH. Watch-only 10-28 (~4.5/6, gambling-mechanic + unresolved 3M/5M supply-cap conflict).
 - [[qnt]]: Quant Network. Overledger picked by The Clearing House (25 largest US banks) for tokenized-deposit settlement; licence fees paid in QNT (tiny demand sink), no revenue until the rail goes live ~2027, 30d run riding record futures OI. Watch-only 10-26 (3.5/6).
 - [[prl]]: Pearl. Proof-of-useful-work AI-compute L1 (btcd fork), no premine/insiders; Together AI catalyst; supply ~doubles in 12 months. Watch-only 10-15 (2.5/6).
 - [[pump]]: Pump.fun. 50% revenue buy-and-burn (~17% supply burned), company-run, 44% supply not circulating. Spot candidate 10-04 (4/6).
@@ -76,6 +77,7 @@
 - [[digests/2026-10-25]]: Alts bounce (39/127 green) as BTC drifts to $80.3k on thin weekend volume; privacy/ZK lead (ZEC +4.2% pre-NU7); 1000PEPE stopped (-$1.85), book flat $160.75; GRASS watch-only (3.5/6, no token claim, Oct 28 unlock); CAP skipped; scorecard 5/13 avg -1.8%.
 - [[digests/2026-10-26]]: Breadth up to 56/131 green despite BTC price feed glitch (CT puts it ~$79.5k); QNT +14.1% on Clearing House tokenized-deposit selection, watch-only (3.5/6, no revenue until 2027, record futures OI); PEARL skipped (identity ambiguity); book flat $160.75; scorecard 5/13 avg -2.6%; Agentic AI: TradingAgents +3,384 stars on v0.7.0, kagent gateway-token-passthrough, Hermes v0.22.5.
 - [[digests/2026-10-27]]: Breadth up to 67/134 green, BTC feed glitches again (CT ~$79.5-80k); HYPE/ZEC lead reference winners, NEAR Intents m/m ticks up first time in 6 days; ETHFI watch-only (3/6, real revenue but leaking buyback); MORPHO skipped (fee switch permanently off); FLUID scorecard call flips green for the first time; glassnode flags HL whales flipping net short BTC; book flat $160.75; scorecard 6/13 avg -2.5%.
+- [[digests/2026-10-28]]: Breadth climbs to 85/131 green, BTC ~$80-82k per CT (feed still glitched); all four reference winners green, NEAR Intents revenue rises for a 2nd straight day; ORE Protocol watch-only (~4.5/6, cleanest buyback+burn screened yet, but gambling mechanics + 3M/5M supply-cap conflict); CARDS revenue accelerates to +78% m/m into tomorrow's unlock; AI Applications sector -10.6% lagging hard; book flat $160.75; scorecard 6/13 avg -2.4%.
 
 ## Five Chains
 - [[chains/2026-10-05]]: First issue. Testnet week (XMR stressnet, Glamsterdam Sepolia, ZEC NU7 testnet); ZEC -15% 7d on first ZCSH outflow week; NEAR exploit funds returned, funding back to parity; AAVE watch-only.
@@ -100,4 +102,5 @@
 - [[chains/2026-10-24]]: NEAR -10% to $4.41 on DFINITY '8 servers' claim (stop hit), Qureshi/NEAR pushback (patent granted Jul, 17 TEE operators), Intents flat $132M; ZCSH 4th inflow +$20.5M but ZEC -6.6%; Glamsterdam Hoodi postponed (EIP-8037 griefing); Kraken keeps XMR; no radar picks.
 - [[chains/2026-10-25]]: ZEC +5% takes 7d lead from XMR as ETF bid shows up late, transparent tx halves; BTC ETF week +$301M all IBIT; ETH Oct 23 +$4.35M; NEAR flat, Illia pitches Nasdaq Intents, Backers Summit Oct 28 (issuance); difficulty +4.8% est.; no radar picks.
 - [[chains/2026-10-26]]: ZEC extends 7d lead (+10.6pp vs BTC) as XMR's Kraken bounce fades (+3.3pp, down from +6.1); Glamsterdam/Hoodi postponement confirmed final, no new date; Qureshi (Dragonfly) rebuts DFINITY patent claim, no filing either side, NEAR Backers Summit tomorrow Oct 28; BTC difficulty est. rises to +5.9%; no radar picks (QNT already flagged in market digest, fails revenue gate).
+- [[chains/2026-10-28]]: NEAR Backers Summit lands with real numbers ($22B+ Intents volume, 28M+ swaps) as Intents revenue m/m decel reverses for a 2nd day; NU7 height locked, ZCSH 5-day inflow streak; ETH ETFs flip red again, Glamsterdam/Hoodi mainnet date now genuinely unknown; BTC ETFs 2nd straight inflow day; XMR regains 7d-vs-BTC lead from ZEC but by only 1 day; no radar picks.
 - [[chains/2026-10-27]]: ZEC's lead widens to +11.6pp vs BTC as ZCSH's 3-week outflow streak reverses ($41.1M last week); XMR flips negative (-0.6pp) as the Kraken bounce fully round-trips; ETH hit by both ETF outflows (-$88.6M) and a 377,100 ETH staking outflow, Glamsterdam/Hoodi still postponed; BTC ETFs snap back to inflow (+$110.3M); NEAR Backers Summit tomorrow (House of Stake vote closes Nov 2); no radar picks.

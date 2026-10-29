@@ -265,3 +265,13 @@
 - created digests/2026-10-28.md, tokens/ore.md
 - updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, tokens/cards.md (log lines), index.md (page count 72)
 - signals.json unchanged (no new spot/perp ideas; ORE watch-only ~4.5/6, cleanest buyback+burn screened yet but gambling mechanics + unresolved 3M/5M max-supply conflict; Arcus has no token, Predict.fun pre-TGE/pre-market only; ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open)
+
+## [2026-10-29] ingest | morning digest 2026-10-29
+- created digests/2026-10-29.md, tokens/kntq.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, tokens/cards.md (log lines), index.md (page count 73)
+- signals.json unchanged (no new spot/perp ideas; KNTQ watch-only ~4/6, strongest buyback+burn mechanic screened yet via KIP-5 permanent burn, but trading at/near ATH with Nov 27 insider/investor cliff ~29 days out; TxFlow Perps skipped (no token, invite-only, anonymous team), Base App skipped (no separate token); ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open)
+
+## [2026-10-29] ingest | Five Chains 2026-10-29
+- created chains/2026-10-29.md
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (page count 74)
+- signals.json unchanged (no radar picks; ENA/ARRR lack dated catalysts in sourcing, M-BTC collapse is a risk note not an opportunity)

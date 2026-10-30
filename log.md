@@ -275,3 +275,13 @@
 - created chains/2026-10-29.md
 - updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (page count 74)
 - signals.json unchanged (no radar picks; ENA/ARRR lack dated catalysts in sourcing, M-BTC collapse is a risk note not an opportunity)
+
+## [2026-10-30] ingest | morning digest 2026-10-30
+- created digests/2026-10-30.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, tokens/kntq.md (log lines), index.md (digest entry + date)
+- signals.json unchanged (no new spot/perp ideas; Binance hack ($5.3-6.3B, largest crypto theft on record) drove breadth to 15/146 green; BEAM skipped — no dated catalyst, top-10 holders 57% of supply, undefined emissions; CAP skipped — cUSD supply -27% from Aug peak while price hits new highs, RSI 71.4 overbought, June depeg history; ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open; KNTQ update only (9.6% off ATH now, cliff ~28 days out)
+
+## [2026-10-30] ingest | Five Chains 2026-10-30
+- created chains/2026-10-30.md
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (page count 75)
+- signals.json unchanged (no radar picks; today's price action dominated by the Binance-hack headline across all five chains, not a coin-specific catalyst)

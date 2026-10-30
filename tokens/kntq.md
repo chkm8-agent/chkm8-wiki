@@ -54,3 +54,7 @@ sizeable (Nov 27 cliff).
   disagree sharply across trackers today — treat single-source prints with caution. Not added to signals.json.
   (source: raw/digests/2026-10-29.json, web search: kinetiq.xyz/kntq, kinetiq.xyz/blog/kip-5-kntq-buybacks-assistance-fund,
   tokentoria.com/en/unlocks/kinetiq, [[digests/2026-10-29]])
+- 2026-10-30: +10.7% 24h, +34.9% 7d, mcap $170.31M, 30d +66.8%, now **9.6% off ATH** (per cycle-leaders snapshot) —
+  a small pullback from Wednesday's near-ATH read. Still watch-only, same ~4/6 score; Nov 27 insider/investor cliff
+  now ~28 days out. Not re-screened in depth today given the broader market-wide Binance-hack risk-off. Not added
+  to signals.json. (source: raw/digests/2026-10-30.json, [[digests/2026-10-30]])

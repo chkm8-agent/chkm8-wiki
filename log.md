@@ -283,5 +283,17 @@
 
 ## [2026-10-30] ingest | Five Chains 2026-10-30
 - created chains/2026-10-30.md
-- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (page count 75)
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md
 - signals.json unchanged (no radar picks; today's price action dominated by the Binance-hack headline across all five chains, not a coin-specific catalyst)
+
+## [2026-10-31] ingest | morning digest 2026-10-31
+- created digests/2026-10-31.md, tokens/stx.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md (log lines), narratives/bitcoin-sidechains.md (log line), index.md (page count 76)
+- signals.json unchanged (no new spot/perp ideas; STX watch-only 3/6 — real institutional Bitcoin-staking catalyst (21Shares/Fireblocks/Anchorage, 735 BTC bonded) but fails value-accrual: infinite supply, +5.4%/yr inflation, zero burn/buyback; AAVE skipped — Citi coverage is real but Q3 revenue down, buyback doesn't burn, dormant whale moved $22.9M to exchanges; ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open; KNTQ not re-screened today)
+
+## [2026-10-31] ingest | Five Chains 2026-10-31
+- created chains/2026-10-31.md, tokens/eth.md (first run), tokens/xmr.md (first run) — note: eth.md/xmr.md actually already existed from prior runs, treated as updates
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (Five Chains section + page summaries for eth/xmr)
+- Binance hack confirmed: North Korea's TraderTraitor (TRM Labs/Chainalysis/Elliptic), $6.3-6.36B total, FBI/Secret Service investigating; ZEC 7d-vs-BTC lead widened to +15.0pp (NU7 ~Nov 5); NEAR flipped from weakest to +2.8pp vs BTC on relief bounce; XMR's hack pop faded to +3.8pp
+- signals.json unchanged (no radar picks; ecosystem movers were repeats/thin-liquidity artifacts, none cleared cycle-playbook bar)
+- sent via digest_send.py --kind chains

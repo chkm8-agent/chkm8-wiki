@@ -1,6 +1,6 @@
 # chkm8 market wiki: index
 
-> Every page with a one-line summary. Last updated: 2026-10-30 | Pages: 75
+> Every page with a one-line summary. Last updated: 2026-10-31 | Pages: 76
 
 ## Tokens
 - [[aero]]: Aerodrome → Aero merger (Oct 21); revenue +238% m/m, 100% fees to veAERO. Spot candidate 10-02 (5/6).
@@ -10,7 +10,7 @@
 - [[cards]]: Collector Crypt. Gacha revenue $14.3M/30d +50% m/m, but holders get ~nothing; Oct 29 unlock. Watch-only 10-09 (3/6).
 - [[crv]]: Curve DAO. veCRV gets 50% DEX admin fees + 100% crvUSD revenue; holder revenue lumpy ($0.9-1.7M/30d) < emissions (~97.2M/yr); LlamaLend loans +68% Q3, Grayscale DeFi Fund 4.42%; Convex-dominated governance. Watch-only 10-20 (3.5/6).
 - [[cvx]]: Convex Finance. Leveraged Curve governance (largest veCRV holder); revenue $0.95M/30d slowly rising, ~93% circulating, -96% from ATH; +21.8% on no news. Watch-only 10-21 (4/6).
-- [[eth]]: Ethereum. Glamsterdam (ePBS + BALs) on Sepolia Oct 6; usage cooling, ETF outflows. Five Chains core.
+- [[eth]]: Ethereum. Glamsterdam (ePBS + BALs) on Sepolia Oct 6, Hoodi postponed over EIP-8037; took the largest leg ($3.51B) of the Oct 29 Binance hack. Five Chains core.
 - [[ethfi]]: Ether.fi. Liquid restaking + Cash card (65% of revenue); real $3.8M/30d revenue, but buyback missing its own guidance and net-negative one week (users cashing out faster than Foundation buys). Watch-only 10-27 (3/6).
 - [[fluid]]: Fluid (ex-Instadapp) lending+DEX layer, ~91% below ATH, fully vested; reserve buyback paused after May bad debt. Spot candidate 10-05 (4/6).
 - [[gmx]]: GMX. OG pool perps DEX; GMTrade (Solana) ~$23B/30d volume; BB&D buybacks; 'GMX Solana +327% revenue' is GT's own buyback, not GMX. Watch-only 10-18 (3/6).
@@ -29,13 +29,14 @@
 - [[pump]]: Pump.fun. 50% revenue buy-and-burn (~17% supply burned), company-run, 44% supply not circulating. Spot candidate 10-04 (4/6).
 - [[ray]]: Raydium. 12% of fees buy RAY; revenue +262% m/m on StonkFun/tokenized stocks; multisig-run. Spot candidate 10-03 (5/6).
 - [[s]]: Sonic. Manual mints ended, supply audit due 10-13 (S -22.3% on the day), 32.69M airdrop burn after 10-15; no revenue routing; founders left board. Watch-only 10-13 (2/6).
+- [[stx]]: Stacks. Bitcoin Staking (lock BTC + STX, earn ~3% BTC yield); real institutional custody catalyst (21Shares/Fireblocks/Anchorage) but infinite supply + ~5.4%/yr inflation with zero burn. Watch-only 10-31 (3/6).
 - [[sky]]: Sky (ex-Maker). Galaxy $100M sUSDS + SKY buy, buybacks (7.76% of circ). Spot candidate 10-02 (4/6).
 - [[strk]]: Starknet. +285% 30d squeeze (vol > mcap) into Oct 15 unlock; short idea -84.8% peak, -60.3% 10-12 as squeeze cracks; bot long exited (TP presumed).
 - [[uni]]: Uniswap. Fee switch → burn; Robinhood Chain ~72% of protocol revenue, gas subsidy ended 9-29. Spot candidate 10-03 (4/6).
 - [[vvv]]: Venice Token. Private-AI app, ~$123-150M/yr revenue visible via Base burns, but token has no claim; burns ~25% of mint, 4/6 Safe controls mint rate. Watch-only 10-22 (3/6).
 - [[wal]]: Walrus. Sui-native storage; default storage for DATA Network (Sui Fdn $30M into DATA, 10-12); +38.6% w/ vol > mcap; no revenue/accrual data, ~half supply unvested. Watch-only 10-14 (2.5/6).
 - [[wld]]: Worldcoin. Short stopped 10-03 @ 0.5964 (-$8.38); Lighter funding still ~6.5x Binance.
-- [[xmr]]: Monero. FCMP++/CARROT stressnet forked 10-05, no mainnet date; no ETF, tiny perp OI. Five Chains core.
+- [[xmr]]: Monero. FCMP++/CARROT stressnet forked 10-05, no mainnet date (target spring 2027); Kraken reversed its withdrawal questionnaire saga Oct 24; no ETF, tiny perp OI. Five Chains core.
 - [[zec]]: Zcash. Reference winner; ETF access trade; first ZCSH outflow week (-$93.6M), NU7 mainnet target Nov 5-6.
 - [[zk]]: ZKsync. Airbender Prime real-time prover (Vitalik nod) + Japan Prividium MoU; no token capture, 67M ZK/mo to Matter Labs draft. Watch-only 10-15 (2/6).
 - [[zro]]: LayerZero. Open-market buybacks + ATLAS 75% buy-and-burn; 23.08M ZRO/month unlock (next Oct 20). Spot candidate 10-06 (4/6), -8.6% on 10-13.
@@ -81,6 +82,7 @@
 - [[digests/2026-10-28]]: Breadth climbs to 85/131 green, BTC ~$80-82k per CT (feed still glitched); all four reference winners green, NEAR Intents revenue rises for a 2nd straight day; ORE Protocol watch-only (~4.5/6, cleanest buyback+burn screened yet, but gambling mechanics + 3M/5M supply-cap conflict); CARDS revenue accelerates to +78% m/m into tomorrow's unlock; AI Applications sector -10.6% lagging hard; book flat $160.75; scorecard 6/13 avg -2.4%.
 - [[digests/2026-10-29]]: HYPE +13.8% on ICE/Tradexyz regulated-futures catalyst while HL Perps revenue worsens to -14.5% m/m; breadth falls to 64/134 despite the pump (concentrated, not broad); KNTQ (Kinetiq) new watch-only (~4/6, strongest burn mechanic yet via KIP-5, but at ATH + Nov 27 insider cliff); CARDS unlock day -6.4%; LIT/NEAR revenue m/m both decelerate again; book flat $160.75; scorecard 5/13 avg -3.3%.
 - [[digests/2026-10-30]]: Binance hacked for ~$5.3-6.3B (largest crypto theft on record); breadth collapses to 15/146 green, BTC -4.5% to ~$76.6k; HYPE flat holding its ICE pop while HL Perps revenue improves to -11.8% m/m; LIT -13.8% (biggest Lighter mover) even as its own revenue rises +28.5% m/m — price/fundamentals diverging; BEAM and CAP spot candidates checked and skipped (no catalyst/holder concentration; price outrunning cUSD supply); book flat $160.75; scorecard 5/13 avg -4.6%.
+- [[digests/2026-10-31]]: Relief bounce from the hack flush (89/136 green, BTC +1.1% to ~$77.5k); STX +13.0% new watch-only (3/6, real institutional Bitcoin-staking catalyst but infinite-supply inflation with zero burn), new [[stx]] page; AAVE (+9.1%, Citi coverage) skipped on declining revenue; all four reference winners green/flat, HYPE revenue decline slows to -8.5% m/m (best yet); book flat $160.75; scorecard 5/13 avg -4.1%.
 
 ## Five Chains
 - [[chains/2026-10-05]]: First issue. Testnet week (XMR stressnet, Glamsterdam Sepolia, ZEC NU7 testnet); ZEC -15% 7d on first ZCSH outflow week; NEAR exploit funds returned, funding back to parity; AAVE watch-only.
@@ -109,3 +111,4 @@
 - [[chains/2026-10-29]]: ZEC retakes a clean 7d-vs-BTC lead (+4.0pp) as ZCSH inflow streak hits 6-7 sessions, but NU7's chain-tip ETA slips to ~Nov 6 00:45-02:35 UTC (a day past "Nov 5"); BTC ETFs 3rd straight inflow day as the difficulty retarget lands within hours (+5.4-5.8% est.); NEAR stays weakest (-9.1pp) as Intents revenue decelerates again and a NEAR-vs-ICP TVL piece reignites the DFINITY dispute; ETH outflows shrinking (3rd day); no radar picks.
 - [[chains/2026-10-30]]: Suspected Binance hack drains $5.57B across ETH/BTC/Tron, Tether/Circle freeze ~$1.8B; BTC difficulty retarget confirmed exactly as flagged (+5.54% to 148.36T); DFINITY-NEAR dispute escalates to a two-patent license-fee demand, dmarketforces ties ~10% NEAR drop to it; ZEC widens its 7d-vs-BTC lead on back-to-back clean ZCSH inflow days; XMR the day's relative winner (+6%) on flight-to-privacy sentiment, but flags a Wagyu.xyz swap-service data leak (off-chain, not a protocol break); no radar picks.
 - [[chains/2026-10-27]]: ZEC's lead widens to +11.6pp vs BTC as ZCSH's 3-week outflow streak reverses ($41.1M last week); XMR flips negative (-0.6pp) as the Kraken bounce fully round-trips; ETH hit by both ETF outflows (-$88.6M) and a 377,100 ETH staking outflow, Glamsterdam/Hoodi still postponed; BTC ETFs snap back to inflow (+$110.3M); NEAR Backers Summit tomorrow (House of Stake vote closes Nov 2); no radar picks.
+- [[chains/2026-10-31]]: Binance confirms the hack — North Korea's TraderTraitor, $6.3-6.36B total, FBI/Secret Service investigating, ~$2.7-3B frozen, Binance reserving $6.34B company funds to cover it; ZEC's 7d-vs-BTC lead goes vertical to +15.0pp (widest tracked) into NU7's ~Nov 5 mainnet activation (Zebra 7.0.0 stable already shipped); NEAR flips from this week's weakest chain to +2.8pp vs BTC on a relief bounce, DFINITY dispute still unresolved (Williams adds a vetKeys claim, zero filings either side); XMR's hack-driven pop fades back to +3.8pp; no radar picks.

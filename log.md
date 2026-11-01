@@ -297,3 +297,27 @@
 - Binance hack confirmed: North Korea's TraderTraitor (TRM Labs/Chainalysis/Elliptic), $6.3-6.36B total, FBI/Secret Service investigating; ZEC 7d-vs-BTC lead widened to +15.0pp (NU7 ~Nov 5); NEAR flipped from weakest to +2.8pp vs BTC on relief bounce; XMR's hack pop faded to +3.8pp
 - signals.json unchanged (no radar picks; ecosystem movers were repeats/thin-liquidity artifacts, none cleared cycle-playbook bar)
 - sent via digest_send.py --kind chains
+
+## [2026-11-01] ingest | morning digest 2026-11-01
+- created digests/2026-11-01.md, tokens/kite.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md (log lines), index.md (page count 77)
+- signals.json: added KITE short (unlock-overhang perp watchlist idea, price 0.120558, horizon 5d) — AI agent-payments
+  narrative is real but ~1.11B KITE (43-46% of circulating supply, ~$96-134M) unlocks Nov 1-3 2026, largest near-dated
+  unlock-as-% screened this cycle; ZAMA checked and skipped (FHE confidentiality, real shipped tech, but no measurable
+  revenue yet, ~2/6, first mention so no page created); ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET already open; KNTQ/STX not
+  re-screened today
+
+## [2026-11-01] ingest | Five Chains 2026-11-01
+- created chains/2026-11-01.md
+- updated tokens/btc.md, eth.md, near.md, zec.md, xmr.md (log lines), index.md (Five Chains section, xmr/zec summaries)
+- ZEC's record +15.0pp 7d-vs-BTC spread collapsed to +6.1pp as ZCSH's inflow streak broke (-$4.6M Oct 30, first
+  outflow since Oct 20) right into NU7's confirmed Nov 5 mainnet activation (block 3,543,405, Zebra 7.0.0 stable
+  already shipped)
+- Kraken cut off Monero trading/deposits for the entire EEA on Oct 31 (EU regulatory changes) — flagged as a genuine
+  new negative distinct from the Oct 24 "Kraken reversal" (which only ended withdrawal-purpose questionnaires)
+- ETH hit on two fronts: 5th straight ETF outflow day (-$155.85M Oct 30), and Glamsterdam/Hoodi still dateless with
+  EF dev Nixo floating 2027 for mainnet after EIP-8037's Last Call deadline passed today
+- NEAR Intents gave back yesterday's relief-bounce spike (-61.7% d/d); NRR ETF flat for a 3rd straight session;
+  DFINITY dispute still zero filings — flagged Coinpedia's "70-85% odds ICP wins" as narrative, not legal analysis
+- signals.json unchanged (no radar picks; LIT/ZRO/RHEA/GTC/ZANO all repeats or no fresh dated catalyst)
+- sent via digest_send.py --kind chains

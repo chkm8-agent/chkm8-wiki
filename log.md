@@ -321,3 +321,31 @@
   DFINITY dispute still zero filings — flagged Coinpedia's "70-85% odds ICP wins" as narrative, not legal analysis
 - signals.json unchanged (no radar picks; LIT/ZRO/RHEA/GTC/ZANO all repeats or no fresh dated catalyst)
 - sent via digest_send.py --kind chains
+
+## [2026-11-02] ingest | morning digest 2026-11-02
+- created digests/2026-11-02.md
+- updated tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md (log lines), topics/agentic-ai.md (weekly line), index.md (digest entry + Last updated date)
+- signals.json unchanged: no new spot/perp ideas. HASH (Provenance Blockchain, RWA) checked and skipped — cross-aggregator
+  price data inconsistent (CoinMarketCap/CoinGecko/DefiLlama disagreed by 10-20pp within hours on the same snapshot),
+  <$100K daily volume on most feeds, no confirmed catalyst. RWA sector's reported +58.6% CoinGecko move flagged as a
+  likely data-normalization artifact (TokenPost same-day snapshot shows "Tokenized Assets -55.52%" for a comparable
+  basket). KITE short (11-01) carries over, ticks green (+2.4%) per scorecard. ZRO/AERO/SKY/RAY/UNI/PUMP/FLUID/MET
+  already open, not re-screened. KNTQ/STX not re-screened today.
+- NEAR HSP-029 issuance-cut vote closed today 16:48 UTC; result not published in our pull — flagged for tomorrow's check.
+
+## [2026-11-02] ingest | Five Chains · Nov 2
+- created chains/2026-11-02.md
+- patched tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/xmr.md, tokens/zec.md (dated log lines) — btc/eth/xmr pages
+  already existed since 2026-10-05 (prior assumption they needed creating was wrong; appended instead of overwriting)
+- updated index.md (Five Chains section, page count 77→78, token-page cross-ref note)
+- retracted the 2026-11-01 Five Chains item claiming Kraken cut off Monero for the entire EEA on Oct 31: re-checked the
+  source (startupfortune.com) and it describes an October 2024 event, not a new 2026 delisting; Kraken's own support
+  page confirms the only regional XMR delisting is Ireland & Belgium since June 2024. Corrected on tokens/xmr.md and
+  in today's issue.
+- web search sources: hoge.gg (BTC covenants/Knots), bitcoinmarket.net / blockchainreporter / tokenpost / blockonomi
+  (Glamsterdam/Hoodi), gov.near.org / coinotag / panews (HSP-029), zcashcommunity.com / zeczcash.com / tradingview
+  (NU7/ZCSH), kraken.com support + startupfortune (Monero correction), pluang / lcx / moneycontrol / tokenpost
+  (BTC ETF), gokhshtein / tradingview / spendnode (ETH ETF 23-day outflow streak), github.com/seraphis-migration
+  (FCMP++ v3.1)
+- signals.json unchanged: no ecosystem radar picks today
+- sent via digest_send.py --kind chains

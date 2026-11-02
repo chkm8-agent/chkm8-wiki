@@ -1,6 +1,6 @@
 # chkm8 market wiki: index
 
-> Every page with a one-line summary. Last updated: 2026-11-01 | Pages: 77
+> Every page with a one-line summary. Last updated: 2026-11-02 | Pages: 78
 
 ## Tokens
 - [[aero]]: Aerodrome → Aero merger (Oct 21); revenue +238% m/m, 100% fees to veAERO. Spot candidate 10-02 (5/6).
@@ -39,6 +39,7 @@
 - [[wld]]: Worldcoin. Short stopped 10-03 @ 0.5964 (-$8.38); Lighter funding still ~6.5x Binance.
 - [[xmr]]: Monero. FCMP++/CARROT stressnet forked 10-05, no mainnet date (target spring 2027); Kraken ended its EEA access for XMR entirely Oct 31 (separate from the Oct 24 questionnaire reversal); no ETF, tiny perp OI. Five Chains core.
 - [[zec]]: Zcash. Reference winner; ETF access trade; ZCSH inflow streak (~$226M) broke Oct 30; NU7 mainnet confirmed ~Nov 5, block 3,543,405.
+- [[tokens/btc|btc]], [[tokens/eth|eth]], [[tokens/xmr|xmr]]: see Tokens section above — pages already existed (created 2026-10-05), not new today.
 - [[zk]]: ZKsync. Airbender Prime real-time prover (Vitalik nod) + Japan Prividium MoU; no token capture, 67M ZK/mo to Matter Labs draft. Watch-only 10-15 (2/6).
 - [[zro]]: LayerZero. Open-market buybacks + ATLAS 75% buy-and-burn; 23.08M ZRO/month unlock (next Oct 20). Spot candidate 10-06 (4/6), -8.6% on 10-13.
 
@@ -85,6 +86,7 @@
 - [[digests/2026-10-30]]: Binance hacked for ~$5.3-6.3B (largest crypto theft on record); breadth collapses to 15/146 green, BTC -4.5% to ~$76.6k; HYPE flat holding its ICE pop while HL Perps revenue improves to -11.8% m/m; LIT -13.8% (biggest Lighter mover) even as its own revenue rises +28.5% m/m — price/fundamentals diverging; BEAM and CAP spot candidates checked and skipped (no catalyst/holder concentration; price outrunning cUSD supply); book flat $160.75; scorecard 5/13 avg -4.6%.
 - [[digests/2026-10-31]]: Relief bounce from the hack flush (89/136 green, BTC +1.1% to ~$77.5k); STX +13.0% new watch-only (3/6, real institutional Bitcoin-staking catalyst but infinite-supply inflation with zero burn), new [[stx]] page; AAVE (+9.1%, Citi coverage) skipped on declining revenue; all four reference winners green/flat, HYPE revenue decline slows to -8.5% m/m (best yet); book flat $160.75; scorecard 5/13 avg -4.1%.
 - [[digests/2026-11-01]]: Breadth climbs to 98/134 green, BTC +0.7% to $77.8k (total-mcap -3.0% reading looks like a feed glitch); LIT top gainer (+15.4%) with revenue finally agreeing with price; ZAMA (FHE, 2/6, too early for revenue) and KITE (AI agent-payments, new [[kite]] page) both checked — no spot picks, KITE's Nov 1-3 unlock (43-46% of circ supply) flagged as a watchlist short instead; book flat $160.75; scorecard 5/13 avg -2.6%.
+- [[digests/2026-11-02]]: Breadth collapses to 21/127 green while BTC barely moves (-0.4%) — alts leading down under a flat BTC tape; NEAR -7.2% weakest reference winner as its HSP-029 issuance vote closes with no result yet; HASH (Provenance, RWA) checked and skipped (inconsistent cross-aggregator price data, thin liquidity, no catalyst); RWA sector's reported +58.6% pump flagged as a likely data-normalization artifact (TokenPost same-day shows tokenized assets -55.52%); KITE short call ticks green (+2.4%); Agentic AI: TradingAgents Δ+4,421 stars on v0.7.1, kagent reaches v1.0.0-rc1 (trigger to finally build the read-only ops agent); book flat $160.75; scorecard 6/14 avg -2.3%.
 
 ## Five Chains
 - [[chains/2026-10-05]]: First issue. Testnet week (XMR stressnet, Glamsterdam Sepolia, ZEC NU7 testnet); ZEC -15% 7d on first ZCSH outflow week; NEAR exploit funds returned, funding back to parity; AAVE watch-only.
@@ -115,3 +117,4 @@
 - [[chains/2026-10-27]]: ZEC's lead widens to +11.6pp vs BTC as ZCSH's 3-week outflow streak reverses ($41.1M last week); XMR flips negative (-0.6pp) as the Kraken bounce fully round-trips; ETH hit by both ETF outflows (-$88.6M) and a 377,100 ETH staking outflow, Glamsterdam/Hoodi still postponed; BTC ETFs snap back to inflow (+$110.3M); NEAR Backers Summit tomorrow (House of Stake vote closes Nov 2); no radar picks.
 - [[chains/2026-10-31]]: Binance confirms the hack — North Korea's TraderTraitor, $6.3-6.36B total, FBI/Secret Service investigating, ~$2.7-3B frozen, Binance reserving $6.34B company funds to cover it; ZEC's 7d-vs-BTC lead goes vertical to +15.0pp (widest tracked) into NU7's ~Nov 5 mainnet activation (Zebra 7.0.0 stable already shipped); NEAR flips from this week's weakest chain to +2.8pp vs BTC on a relief bounce, DFINITY dispute still unresolved (Williams adds a vetKeys claim, zero filings either side); XMR's hack-driven pop fades back to +3.8pp; no radar picks.
 - [[chains/2026-11-01]]: ZEC's record +15.0pp 7d-vs-BTC spread collapses to +6.1pp as ZCSH's inflow streak breaks (-$4.6M Oct 30, first outflow since Oct 20) right into NU7's confirmed Nov 5 activation; Kraken cuts off Monero trading/deposits for the entire EEA (Oct 31) — a real new negative distinct from the Oct 24 harassment-questionnaire reversal; ETH hit on two fronts (5th straight ETF outflow day -$155.85M, Glamsterdam/Hoodi still dateless with a dev floating 2027); NEAR Intents gives back the relief-bounce spike, NRR ETF flat 3rd session; no radar picks.
+- [[chains/2026-11-02]]: **Retraction:** yesterday's "Kraken cuts off Monero EEA" item traced to a misdated 2024 story, not new 2026 news — corrected on [[xmr]]; NEAR is the day's weakest chain by far (-7.2%, -7.9pp vs BTC) with HSP-029's issuance vote closed but unresolved; ETH's ETF bleed reframed as a 23-session Glassnode outflow streak, the longest since launch, with Devcon Mumbai (Nov 3-6) the next chance at a new Hoodi date; BTC ETFs closed October as their first net-outflow month since June; ZEC still leads 7d-vs-BTC into NU7 (~3 days out); no radar picks.

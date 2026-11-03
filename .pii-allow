@@ -1,2 +1,3 @@
 # Known-public phrases in market notes that contain a private deny term (see infra/git/pii_check.py).
 (?i)\bDAO income\b
+(?i)\bsystem income\b

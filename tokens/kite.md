@@ -37,3 +37,6 @@ price $0.1206, mcap $288.3M as of 2026-11-01).
   (x402 volume) but tiny relative to the ~$96-134M of insider/VC tokens about to unlock within days. Flagged as a
   **perp watchlist short idea** (see [[digests/2026-11-01]]), not a spot candidate — this is a disqualifier, not an
   opportunity. See [[cycle-playbook]] item 6. (source: raw/digests/2026-11-01.json, web search)
+- 2026-11-03: Unlock window (Nov 1-3) closes today. Scorecard call now **+5.0%** (from +2.4% on 11-02). No fresh
+  KITE-specific data in today's pull; short idea stays open per [[cycle-playbook]] item 6 until the unlock fully
+  clears and supply overhang is confirmed digested. (source: raw/digests/2026-11-03.json, script scorecard)

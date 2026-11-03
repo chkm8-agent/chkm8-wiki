@@ -349,3 +349,36 @@
   (FCMP++ v3.1)
 - signals.json unchanged: no ecosystem radar picks today
 - sent via digest_send.py --kind chains
+
+## [2026-11-03] ingest | Market digest
+- Script data: breadth 60/132 green (recovery from 21/127), BTC $77,230 (-0.7%/-3.6%), total mcap -3.1%
+- Spot research: checked RUNE (THORChain) and NIGHT (Midnight), both disqualified — RUNE revenue spike traces to
+  laundering Binance-hack funds + unresolved 10-chain swap halt (web search); NIGHT has no value-accrual mechanism
+  for its own token (web search). No new spot picks.
+- Reference winners: HYPE revenue improves to -8.9% m/m; LIT +4.2% (Lighter's top mover besides PLTR); ZEC -5.9%
+  reverses pre-NU7 (~2 days out, 30d -10.7%); NEAR stays weakest, -81.1% from ATH, HSP-029 result still unpublished.
+- KITE short call improves to +5.0% as unlock window (Nov 1-3) closes today.
+- Files touched: created `digests/2026-11-03.md`; updated `tokens/hype.md`, `tokens/lit.md`, `tokens/zec.md`,
+  `tokens/near.md`, `tokens/kite.md`, `index.md`, `log.md`. `signals.json` unchanged (no new ideas).
+- Send status: sent via digest_send.py (default market kind)
+
+## [2026-11-03] ingest | Five Chains · Nov 3
+- created chains/2026-11-03.md
+- updated tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/xmr.md, tokens/zec.md (dated log lines)
+- updated index.md (Five Chains section, page count 78→79, Pages header)
+- Key findings: NEAR's HSP-029 issuance-cut vote passed ~99.9-99.96% but isn't binding (14-day Security Council
+  veto window, then 90-day grace period, then a separate validator upgrade); NEAR fell ~7% on the news anyway,
+  likely pricing the projected staking-yield cut (5.2%→3.3%) over the dilution benefit. XMR took the 7d-vs-BTC
+  lead from ZEC for the first time in over a week (+8.4pp vs ZEC's -2.5pp) two days before ZEC's own NU7
+  mainnet activation; a ~$106M theft was partly laundered into XMR via Wagyu this weekend (ZachXBT, non-Lazarus).
+  Both BTC (-$398.6M Nov 2, second big outflow day after Oct 30's -$643.3M, 2026 YTD flows now roughly flat) and
+  ETH (-$139.7M Nov 2, 6th straight outflow day, lifetime inflows down to ~$12.18B) ETFs bled on the same day;
+  Devcon 8 (Mumbai, through Nov 6) running with no Hoodi-date signal yet.
+- web search sources: coinranking.com / tokenpost / lcx / bloomingbit / crypto-economy.com (HSP-029 result),
+  coincarp.com / forum.zcashcommunity.com / github.com/zcash/zips / cryptoticker.io (NU7 timeline), octagonai.co /
+  blockchainreporter.net / ad-hoc-news.de (ETH ETF streak + Glamsterdam), admiralmarkets.com / tokenpost /
+  coinjuice.com (BTC ETF flows), coinmarketcap.com/cmc-ai / coinpaper.com / ground.news / coinotag.com /
+  tokenpost.com (XMR news), zeczcash.com / cryptoetf.today / coinotag.com (ZCSH — flagged one conflicting claim
+  as likely wrong)
+- signals.json unchanged: no ecosystem radar picks today (A7A5 +618.9% looks like a data/wash artifact, no story found)
+- sent via digest_send.py --kind chains

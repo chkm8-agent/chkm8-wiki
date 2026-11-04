@@ -362,6 +362,23 @@
   `tokens/near.md`, `tokens/kite.md`, `index.md`, `log.md`. `signals.json` unchanged (no new ideas).
 - Send status: sent via digest_send.py (default market kind)
 
+## [2026-11-04] ingest | Market digest
+- Script data: breadth 112/138 green (up from 60/132), BTC $79,150 (+2.4%/-2.9%), total mcap $2.68T (-0.3%)
+- Spot research: checked CAP (Cap, stablecoin-credit protocol, top gainer +23.7%) and 2Z (DoubleZero) — both
+  disqualified. CAP: real fees ($489.9K/30d) but token is pure governance, no holder-level accrual, 10B max
+  supply at only 15.6% circulating, CMC AI's own summary calls the rally overheated. 2Z: clean 10%-burn accrual
+  mechanic but protocol fee growth -29.96% m/m and revenue growth -14.3% m/m — fails the mandatory revenue-growth
+  gate even with good tokenomics design. No new spot picks.
+- Reference winners: HYPE revenue improves to -6.5% m/m (2nd straight improvement, best print of the fade);
+  LIT trending #79 (+6.8%), revenue +22.1% m/m flat; ZEC +11.0% as NU7 mainnet activation lands (block 3,543,405,
+  ~late Nov5/early Nov6 UTC per Zebra block-pace tracking); NEAR bounces +7.7% off yesterday's HSP-029 selloff,
+  still weakest of the four on 30d/ATH distance.
+- Scorecard: FLUID spot call flips green for the first time (+2.3%), hit rate improves 6/14→7/14, avg -1.7%→-0.6%.
+  KITE short ticks down to +0.8% (unlock window closed) from +5.0%.
+- Files touched: created `digests/2026-11-04.md`; updated `tokens/hype.md`, `tokens/lit.md`, `tokens/zec.md`,
+  `tokens/near.md`, `tokens/kite.md`, `index.md`, `log.md`. `signals.json` unchanged (no new ideas).
+- Send status: sent
+
 ## [2026-11-03] ingest | Five Chains · Nov 3
 - created chains/2026-11-03.md
 - updated tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/xmr.md, tokens/zec.md (dated log lines)
@@ -382,3 +399,25 @@
   as likely wrong)
 - signals.json unchanged: no ecosystem radar picks today (A7A5 +618.9% looks like a data/wash artifact, no story found)
 - sent via digest_send.py --kind chains
+
+## [2026-11-04] ingest | Five Chains · Nov 4
+- created chains/2026-11-04.md
+- updated tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/xmr.md, tokens/zec.md (dated log lines)
+- updated index.md (Five Chains section, page count 79→80, Pages header)
+- Key findings: all five chains bounced hard (NEAR +10.4%, ZEC +12.3%, ETH +6.3%, BTC +4.4%, XMR +3.5%) even as
+  ETF outflows continued (BTC -$115.6M Nov 3, 3rd straight day, ~$1.16B over three sessions; ETH -$85.3M Nov 3,
+  7th straight day, ~$656M since Oct 26). Zcash NU7 mainnet is landing almost exactly now per Zebra's own
+  block-pace tracking (~Nov 6 UTC). NEAR's HSP-029 Security Council veto window now has a firm close date,
+  Nov 16, with projected post-cut staking yield at ~3.37%. Monero's laundering-linked theft estimate rose to
+  $133M (from $106M), plus a separate $38M Mercado Bitcoin breach. ZCSH flow direction is now genuinely
+  conflicting across sources (zeczcash.com vs coinotag.com) — flagged unverified rather than picking one.
+- web search sources: yahoo finance / cryptorank.io / tradingview / admiralmarkets.com / tokenpost.com (BTC/ETH
+  ETF flows), cryptodataapi.com / coinfuty.com / blockchainreporter.net / cryptoticker.io (ETH ETF + Devcon/
+  Glamsterdam), cryptopolitan.com / bloomingbit.io / coinotag.com / lcx.com / tokenpost.com (NEAR HSP-029 veto
+  date), forum.zcashcommunity.com / ct.com / coincarp.com / cryptoticker.io / github.com/zcash/zips (NU7 timing),
+  coinmarketcap.com/cmc-ai / coinmarketcap.com top-stories / coinpaper.com / ground.news / coin-turk.com (XMR
+  theft + Mercado Bitcoin), morningstar.com / zeczcash.com / coinotag.com / cryptoetf.today (ZCSH — flagged as
+  conflicting, not reconciled)
+- signals.json unchanged: no ecosystem radar picks today (ENA/DRV lack a sourced dated catalyst; LIT already
+  tracked in cycle-playbook with known unlock-cliff risk)
+- Send status: sent

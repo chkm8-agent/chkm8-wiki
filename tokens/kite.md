@@ -40,3 +40,6 @@ price $0.1206, mcap $288.3M as of 2026-11-01).
 - 2026-11-03: Unlock window (Nov 1-3) closes today. Scorecard call now **+5.0%** (from +2.4% on 11-02). No fresh
   KITE-specific data in today's pull; short idea stays open per [[cycle-playbook]] item 6 until the unlock fully
   clears and supply overhang is confirmed digested. (source: raw/digests/2026-11-03.json, script scorecard)
+- 2026-11-04: Unlock window closed yesterday. Scorecard call now **+0.8%** (down from +5.0%) as price ticked
+  back up slightly post-unlock — consistent with the overhang starting to clear and selling pressure easing.
+  Short idea stays open pending a clearer post-unlock trend read. (source: raw/digests/2026-11-04.json, script scorecard)

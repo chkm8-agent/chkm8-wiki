@@ -421,3 +421,26 @@
 - signals.json unchanged: no ecosystem radar picks today (ENA/DRV lack a sourced dated catalyst; LIT already
   tracked in cycle-playbook with known unlock-cliff risk)
 - Send status: sent
+
+## [2026-11-05] ingest | Market digest 2026-11-05
+- Checked PIEVERSE (+9.3% gainer, AI-agent payment infra) and BEAM (+3.8%, gaming) as spot candidates — both
+  disqualified: PIEVERSE on 83%-in-10-wallets concentration + hidden mint-capable owner + Nov 14 unlock
+  (~10.1% of mcap); BEAM on near-zero fees ($83/30d) with no stated accrual mechanism
+- ZEC NU7 mainnet activation confirmed live today via web search (zcashcommunity.com forum timeline); price
+  faded -3.3% on the day itself (sell-the-news)
+- X/CT sampling returned 0 posts today (API credits depleted, 402) — no sentiment cross-check available
+- Files created: digests/2026-11-05.md
+- Files updated: tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, index.md
+- signals.json unchanged: no new spot/perps candidates qualified today
+
+## [2026-11-05] ingest | Five Chains 2026-11-05
+- Web research: BTC ETF flows (flipped positive +$74.6M Nov 4), ETH ACDE #249/Devcon 8 Hoodi status, NEAR HSP-029
+  (no change since yesterday), Zcash NU7 activation status (not yet fired — block-height trigger ~1,100-1,600
+  blocks out, points to Nov 6), Monero theft (named victim Crédit Mutuel Arkéa), ZCSH flow reconciliation
+  (Nov 3 -$3.58M outflow confirmed, Nov 4 +$3.4M small inflow; yesterday's Coinotag "5th inflow" claim debunked)
+- Created chains/2026-11-05.md
+- Updated tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/zec.md, tokens/xmr.md (dated log lines), index.md
+  (Five Chains section, page count 80→81), log.md
+- signals.json unchanged: no ecosystem radar picks today (M-BTC's +60.3%/+46.6% moves lack a sourced dated
+  catalyst; nothing else cleared the cycle-playbook bar)
+- Send status: sent

@@ -444,3 +444,30 @@
 - signals.json unchanged: no ecosystem radar picks today (M-BTC's +60.3%/+46.6% moves lack a sourced dated
   catalyst; nothing else cleared the cycle-playbook bar)
 - Send status: sent
+
+## [2026-11-06] ingest | Market digest 2026-11-06
+- New spot candidate: PYTH (Pyth Network) — Pyth Pro/Indices/LaaS subscription revenue (group ARR
+  $13.67M Oct, up from $11.49M Sep, +86% q/q) now feeds a 100%-of-revenue buyback (OP-PIP-136, passed
+  Oct 8, first buys Sep 30); flagged that the buyback builds a non-sellable DAO reserve rather than
+  burning supply, so value accrual is only partial credit. Playbook ~4/6 (web search: cryptopolitan.com,
+  rootdata.com, solanacompass.com, forum.pyth.network, tokenomist.ai, levex.com)
+- ZEC popped +7.1% today, first clean green day on the NU7 catalyst after several sell-the-news fades
+- Account state: no open positions (XMR long closed since yesterday's digest), total asset value $158.36
+- Files created: digests/2026-11-06.md, tokens/pyth.md
+- Files updated: tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, index.md, signals.json
+- signals.json: added PYTH long spot signal @ $0.066542, horizon 60d
+- Send status: sent
+
+## [2026-11-06] ingest | Five Chains 2026-11-06
+- Web research: Zcash NU7 activation CONFIRMED (block 3,543,405, ~02:34 UTC Nov 6, Zcash Foundation's own
+  account + The Block/Yahoo/LeoDex); BTC and ETH ETF flows round-tripped Nov 4's green day back to red
+  Nov 5 (BTC -$430.2M, ETH -$99.98M); ACDE #249 ran Nov 5 as scheduled but no published Hoodi-date outcome
+  found; NEAR HSP-029 unchanged (veto window unopposed, closes Nov 16); Monero Arkéa theft incident-timeline
+  detail (secure.com); ZCSH flows conflicting again (zeczcash settled Nov 4 +$3.43M vs TokenPost/SoSoValue
+  same-day Nov 5 -$10.99M, >$10M cumulative discrepancy, flagged unresolved)
+- Created chains/2026-11-06.md
+- Updated tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/zec.md, tokens/xmr.md (dated log lines),
+  index.md (Five Chains section, page count 82→83), log.md
+- signals.json unchanged: no ecosystem radar picks today (M-BTC's reversal confirms it was never a real
+  catalyst; nothing else cleared the cycle-playbook bar)
+- Send status: sent

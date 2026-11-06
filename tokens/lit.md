@@ -56,7 +56,10 @@ so we are long the exchange we use. That's a concentration to keep in mind.
 - 2026-11-04: trending #79 (+6.8% 24h), mcap $877.98M. Lighter Perps revenue $3.02M/30d, +22.1% m/m (flat vs
   +22.8% on 11-01) — still one of the faster-rising revenue lines in today's whole dataset. Dec 30 cliff ~56
   days out. (source: raw/digests/2026-11-04.json, [[digests/2026-11-04]])
-- 2026-11-05: No fresh CoinGecko price in today's pull (not a top mover/trending today). Lighter Perps revenue
+- 2026-11-05: No fresh CoinGecko price in today's pull. Lighter Perps revenue
   $3.10M/30d, **+23.6% m/m** (from +22.1%) — continuing to rise, flagged among DefiLlama's "rising >20% m/m"
   protocols today. Fundamentals intact even without a price signal. Dec 30 cliff ~55 days out. (source:
   raw/digests/2026-11-05.json, [[digests/2026-11-05]])
+- 2026-11-06: $3.39 (-0.6% 24h, CoinGecko). Lighter Perps revenue $3.23M/30d, **+27.5% m/m** (from
+  +23.6%) — a third straight day of acceleration, again on DefiLlama's "rising >20%" board. Dec 30
+  cliff ~54 days out. (source: raw/digests/2026-11-06.json, coingecko.com, [[digests/2026-11-06]])

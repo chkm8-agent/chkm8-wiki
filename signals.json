@@ -150,5 +150,16 @@
     "invalidation": "price holds above pre-unlock level into Nov 4 (unlock absorbed by demand)",
     "horizon_days": 5,
     "kind": "perp"
+  },
+  {
+    "date": "2026-11-06",
+    "symbol": "PYTH",
+    "coingecko_id": "pyth-network",
+    "direction": "long",
+    "price": 0.066542,
+    "thesis": "Oracle network turning into a data-subscription business: group ARR $13.67M Oct 2026, up from $11.49M Sep (+86% q/q), driven by Pyth Pro/Indices/LaaS. OP-PIP-136 (passed Oct 8, first buys Sep 30) sends 100% of DAO product-revenue share into open-market PYTH purchases, but bought tokens sit in a non-sellable DAO reserve rather than being burned. 78.75% of supply already circulating; final unlock cliff distant (May 19 2027). Playbook 4/6.",
+    "invalidation": "ARR growth stalls m/m, or DAO reserve purchases stay a pure accumulation story with no path to reducing float",
+    "horizon_days": 60,
+    "kind": "spot"
   }
 ]

@@ -471,3 +471,31 @@
 - signals.json unchanged: no ecosystem radar picks today (M-BTC's reversal confirms it was never a real
   catalyst; nothing else cleared the cycle-playbook bar)
 - Send status: sent
+
+## [2026-11-07] ingest | Market digest 2026-11-07
+- Web research: Mantle (MNT) tokenomics/revenue (checked as candidate, disqualified: no buyback/burn,
+  fee switch inactive despite ~$2B treasury); Curve (CRV) revenue mechanism (checked as candidate,
+  disqualified: fee-sharing to veCRV lockers in crvUSD, not a buyback/burn); Pyth Network October
+  report (corrected the ARR growth figure to +18.9% m/m, distinct from the +86% QoQ figure used
+  loosely yesterday)
+- No new spot/perps candidates today (0 candidates): MNT and CRV both fail cycle-playbook value
+  accrual; nothing else cleared the bar
+- Files updated: tokens/pyth.md, tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md,
+  tokens/crv.md, index.md, log.md
+- signals.json unchanged: no new entries (PYTH stays open from 11-06, not re-added)
+
+## [2026-11-07] ingest | Five Chains 2026-11-07
+- Web research: BTC ETF Nov 6 -$411.92M (2nd straight outflow day, IBIT -$403M); ETH Hoodi delay now
+  officially confirmed by EF's own blog (Core Devs won't fork Hoodi until EIP-8037/8038 invariants
+  resolved) — answers yesterday's open ACDE #249 question; ETH ETF Nov 6 flow has a genuine 3-way
+  tracker mismatch (-$93.3M / -$1.9M / -$57.31M, all red, magnitude unresolved); NEAR's October Intents
+  recap (best month ever: $2.4M revenue, $3.9B volume, 520k users) vs ~$80M/yr possible dilution;
+  ZEC round-trips Thursday's NU7 pop (-6.3%); ZCSH settled Nov 6 +$1.77M but trailing week -$13M (both
+  consistent); new BTC covenant story (BIP-54 "Great Consensus Cleanup", Corallo ~80% odds, 2027-28);
+  Monero no new delisting since Nov 2 retraction
+- Created chains/2026-11-07.md
+- Updated tokens/btc.md, tokens/eth.md, tokens/near.md, tokens/zec.md, tokens/xmr.md (dated log lines),
+  index.md (Five Chains section, page count 83→84), log.md
+- signals.json unchanged: no ecosystem radar picks today (M-BTC's wrapped-peg spike repeats with no
+  catalyst, PIEVERSE/LIT not sourced/conflict of interest)
+- Send status: sent

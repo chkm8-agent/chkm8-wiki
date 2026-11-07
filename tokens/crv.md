@@ -32,3 +32,9 @@ Score 1: on-chain DAO with real fee routing, but voting dominated by Convex/Year
 ## Log
 - 2026-10-20: $0.371 (+6.9% 24h, +8.4% 7d), mcap $587M, -99% from ATH. DeFi-dinosaur bid with COMP/BAT. Watch-only 3.5/6 (accrual ✓, left-for-dead ✓, dated supply ✓, revenue ½ lumpy, distribution ½, story ✗). Buy if holder revenue >$1.5M/30d for two more windows; kill below $0.335. (source: raw/digests/2026-10-20.json, DefiLlama API, [[digests/2026-10-20]])
 - 2026-10-21: $0.391 (+4.8%). Curve DEX revenue $1.72M/30d (+85.9% m/m in raw, lumpy). CVX +21.8% is the leveraged expression, see [[cvx]]. Still watch-only; kill $0.335. (source: raw/digests/2026-10-21.json, [[digests/2026-10-21]])
+- 2026-11-07: Re-checked as a spot candidate (today's "rising >20% m/m" DefiLlama board: Curve DEX fees
+  +67.8% m/m). Still fails the cycle-playbook value-accrual test — ~$1.03M/30d protocol revenue, ~96%
+  of it paid to veCRV lockers as crvUSD (not a buyback/burn), per rootdata.com and coinstats.app/ai
+  November analyses. Real and growing revenue, wrong accrual mechanism for this screen. Watch-only
+  unchanged. (source: raw/digests/2026-11-07.json, web search: rootdata.com, coinstats.app,
+  dexwatch.com, mrnasdog.com, [[digests/2026-11-07]])

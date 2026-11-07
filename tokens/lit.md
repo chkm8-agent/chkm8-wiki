@@ -63,3 +63,7 @@ so we are long the exchange we use. That's a concentration to keep in mind.
 - 2026-11-06: $3.39 (-0.6% 24h, CoinGecko). Lighter Perps revenue $3.23M/30d, **+27.5% m/m** (from
   +23.6%) — a third straight day of acceleration, again on DefiLlama's "rising >20%" board. Dec 30
   cliff ~54 days out. (source: raw/digests/2026-11-06.json, coingecko.com, [[digests/2026-11-06]])
+- 2026-11-07: $3.24 (-4.4% 24h) — one of today's bigger Lighter movers to the downside. Lighter
+  Perps revenue $3.22M/30d, +23.2% m/m — essentially flat vs +27.5% yesterday, still comfortably on
+  DefiLlama's "rising >20%" board for a 4th+ straight day. Price/fundamentals divergence persists.
+  Dec 30 cliff ~53 days out. (source: raw/digests/2026-11-07.json, [[digests/2026-11-07]])

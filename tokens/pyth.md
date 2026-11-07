@@ -37,3 +37,12 @@ candidate flagged 2026-11-06 (see [[cycle-playbook]]). Compare to other revenue-
   revenue buyback live since Sep 30, but buyback builds a DAO reserve rather than burning float.
   Playbook ~4/6. (source: raw/digests/2026-11-06.json, coingecko.com, solanacompass.com,
   forum.pyth.network, cryptopolitan.com, rootdata.com, tokenomist.ai, levex.com, [[digests/2026-11-06]])
+- 2026-11-07: $0.0645 (-3.0% 24h). Pyth's own October report (pyth.network/blog, confirmed by
+  TokenPost and Coinpedia) puts the exact figure: ARR $13.67M, **+18.9% m/m** (up from $11.49M active
+  ARR at end of Q3) — correcting yesterday's loose framing that conflated this with the +86.5% *QoQ*
+  growth figure (a different, larger window). This is a genuine second month of subscription growth,
+  the "what would make us buy" condition flagged yesterday. Also: Pyth Terminal signups +37% m/m to
+  4,451, 332 paying accounts, MCP Server 1.1 shipped for AI-agent feed access, US Treasury curve (7
+  maturities) went live Nov 5. Thesis intact, tracking as hoped; price still fading with the broader
+  market. (source: raw/digests/2026-11-07.json, pyth.network/blog, tokenpost.com, coinpedia.org,
+  [[digests/2026-11-07]])

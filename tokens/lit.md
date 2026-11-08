@@ -67,3 +67,6 @@ so we are long the exchange we use. That's a concentration to keep in mind.
   Perps revenue $3.22M/30d, +23.2% m/m — essentially flat vs +27.5% yesterday, still comfortably on
   DefiLlama's "rising >20%" board for a 4th+ straight day. Price/fundamentals divergence persists.
   Dec 30 cliff ~53 days out. (source: raw/digests/2026-11-07.json, [[digests/2026-11-07]])
+- 2026-11-08: $3.24 (+0.2% CoinGecko trending). Lighter perp +1.4% ($10.30M vol), a top-8 Lighter
+  mover. No fresh revenue print; last read +23.2% m/m (11-07). Dec 30 cliff ~52 days out. (source:
+  raw/digests/2026-11-08.json, [[digests/2026-11-08]])

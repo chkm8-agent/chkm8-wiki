@@ -70,3 +70,6 @@ so we are long the exchange we use. That's a concentration to keep in mind.
 - 2026-11-08: $3.24 (+0.2% CoinGecko trending). Lighter perp +1.4% ($10.30M vol), a top-8 Lighter
   mover. No fresh revenue print; last read +23.2% m/m (11-07). Dec 30 cliff ~52 days out. (source:
   raw/digests/2026-11-08.json, [[digests/2026-11-08]])
+- 2026-11-09: No fresh price/revenue print in today's pull (trending-rank 81 on CoinGecko searches, rank
+  unchanged from recent days). Last confirmed revenue read +23.2% m/m (11-07). Dec 30 cliff ~51 days out.
+  (source: raw/digests/2026-11-09.json, [[digests/2026-11-09]])

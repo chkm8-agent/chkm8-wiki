@@ -527,3 +527,42 @@
   opposite move; PIEVERSE unverified catalyst; no usable X/CT samples today)
 - Note for next lint: log.md now >500 lines/entries — due for a yearly rotation to log-2026.md
 - Send status: sent
+
+## [2026-11-09] ingest | Market digest 2026-11-09 (Agentic AI Monday)
+- Web research: AVAX (Avalanche) checked as candidate, disqualified: real NYSE-tokenization catalyst
+  chatter + VanEck ETF live since Jan 2026 + $1B AVAX treasury deal, but C-Chain fee burn is trivially
+  small (Avalanche's own Q3 2026 tokenholder report: ~$501K burned vs ~$19.1M staking rewards issued, net
+  issuance still positive/inflationary; DefiLlama shows only $64K/24h, $332K/30d chain revenue)
+- ANVL (Anvil) checked as candidate, disqualified: top 30d/200d mover on a real Oct 6 catalyst (Founders
+  Fund/Pantera/Theta/Bullish $5M token purchase + Enterprise SDK), but zero protocol fees/revenue, TVL only
+  ~$14M (-82% y/y), pure governance token, and one wallet holds 52.03% of supply (~$97.82M)
+- No new spot/perps candidates today (0 candidates, 3rd straight day): AVAX/ANVL fail cycle-playbook
+  screens on value accrual / centralization
+- Files updated: tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, topics/agentic-ai.md,
+  index.md, log.md
+- Agentic AI (Monday section): kagent v1.0.0-rc3 (Nov 6), 3rd un-built "try" for the read-only ops agent;
+  TradingAgents Δ+1,673 stars to 121,511; Hermes v0.23.0 (Nov 5), 261,980 stars (Δ+2,270); CrewAI
+  1.15.36-39 small real features; papers "Phantom Consensus" (2611.08971) and "Debate to Deceive"
+  (2611.08756); new "Try": bull/bear proposal desk (two agents debate, write a markdown proposal only,
+  never touch trade.py)
+- signals.json unchanged: no new entries (KITE short and PYTH long stay open from 11-01/11-06)
+- Send status: sent
+
+## [2026-11-09] ingest | Five Chains 2026-11-09
+- Web research: BTC ETF -$1.28B week fully confirmed/dated (Yahoo Finance, TokenPost, Mitrade via
+  SoSoValue/Farside); 2026 YTD flows now -$828M to -$914M depending on tracker
+- ETH Hoodi delay gets concrete next decision dates: ACDC #191 (Nov 12), ACDE #249 (Nov 19), both 14:00
+  UTC (chaingate.dev); Justin Drake floated Jan/Feb 2027 mainnet hope at Devcon (non-binding)
+- NEAR: new negative story — North Korean launderers reportedly minted 6 memecoins Nov 5-7 to move
+  ~117,000 NEAR (~$430K) tied to Binance-hack funds (Elliptic via Coinfomania); mirror image of last
+  week's "Intents blocked $500M" item
+- ZEC: ZCSH flows resolved cleanly, Nov 6 +$1.77M, November MTD net -$13M (2 in/3 out); XMR retakes
+  7d-vs-BTC privacy-wars lead from ZEC (+3.3pp vs +0.9pp)
+- XMR: jpk68's Tor/I2P CCS dev-funding proposal now ~69% funded; Binance funding running ~4.7x Lighter's
+  on XMR (venue-specific crowded long)
+- No ecosystem radar picks (M-BTC wrapped-peg anomaly and PIEVERSE still disqualified, no usable X/CT
+  samples today)
+- Files created: chains/2026-11-09.md
+- Files updated: tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md, index.md
+  (Five Chains section + page count 84→85), log.md
+- Send status: sent

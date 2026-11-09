@@ -101,4 +101,16 @@ was "fixed" (fast fixes = someone holds admin keys).
   the structurally-weakest-of-four run. 30d -22.1%, 200d +161.9%, -81.8% from ATH, still the laggard of the
   set. No fresh HSP-029 news; veto window continues unopposed toward its Nov 16 close. (source:
   raw/digests/2026-11-08.json, [[digests/2026-11-08]])
-- 2026-11-08 (Five Chains): $3.70, 24h +0.5%, 7d -15.3% (-12.7pp vs BTC, by far the weakest of the five). Intents $114.75M/24h (-18.9% d/d), 7d $906.44M, 30d $3.88B; TVL $172.90M (-1.0%), stablecoins $130.45M. Got caught in a market-wide, AI-token-led liquidation cascade ($1B+ wiped out, mostly longs) after a Wall Street selloff spilled into crypto — macro, not NEAR-specific (cryptodaily.co.uk); traded as low as $3.63 this week, below its 50-day MA (~$4.21). Genuine positive: NEAR Intents rejected over $500M in Binance-hack-linked transactions (AMBCrypto/Pluang) — real screening working, though it cuts both ways with our recurring admin-pause/FAR-permissioning notes. HSP-029 unchanged: veto window (zero recorded opposition) still closes Nov 16. Lighter funding flat (0.0000% vs Binance 0.0037%). (source: raw/chains/2026-11-08.json, web search, [[chains/2026-11-08]])
+- 2026-11-08 (Five Chains): $3.70, 24h +0.5%, 7d -15.3% (-12.7pp vs BTC, by far the weakest of the five). Intents $114.75M/24h (-18.9% d/d), 7d $906.44M, 30d $3.88B; TVL $172.90M (-1.0%), stablecoins $130.45M. Got caught in a market-wide, AI-token-led liquidation cascade ($1B+ wiped out, mostly longs) after a Wall Street selloff spilled into crypto — macro, not NEAR-specific (cryptodaily.co.uk); traded as low as $3.63 this week, below its 50-day MA (~$4.21). Genuine positive: NEAR Intents rejected over $500M in Binance-hack-linked transactions (AMBCrypto/Pluang) — real screening working,  though it cuts both ways with our recurring admin-pause/FAR-permissioning notes. HSP-029 unchanged: veto window (zero recorded opposition) still closes Nov 16. Lighter funding flat (0.0000% vs Binance 0.0037%). (source: raw/chains/2026-11-08.json, web search, [[chains/2026-11-08]])
+- 2026-11-09: Cycle-leaders snapshot: 30d -32.6%, 200d +160.1%, -82.3% from ATH — worst read yet on both
+  measures, still the laggard of the four reference winners by a wide margin, still digesting last week's
+  AI-token liquidation cascade and the HSP-029 staking-yield cut (veto window closes Nov 16). No fresh
+  Intents revenue print in today's pull. (source: raw/digests/2026-11-09.json, [[digests/2026-11-09]])
+- 2026-11-09 (Five Chains): $3.62, 24h -2.3%, 7d -11.6% (-7.7pp vs BTC, weakest of the five). Intents
+  $87.67M/24h (-23.6% d/d), 7d $912.18M, 30d $3.71B; app fees $211.52K (1m -46.4%), TVL $167.53M (-3.1%),
+  stablecoins $130.54M. **New negative story: North Korean launderers reportedly minted six memecoins on
+  NEAR Nov 5-7 to move ~117,000 NEAR (~$430K) tied to Binance-hack funds**, routed through a liquidity
+  pool to obscure origin (Elliptic via Coinfomania) — the uncomfortable mirror of last week's "NEAR
+  Intents blocked $500M in Binance-hack transactions" item: the same ecosystem both screens some hack
+  flows and gets used to launder others. HSP-029 Security Council veto window (zero recorded opposition)
+  unchanged, still closes Nov 16. (source: raw/chains/2026-11-09.json, web search, [[chains/2026-11-09]])

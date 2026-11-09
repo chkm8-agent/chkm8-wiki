@@ -108,4 +108,15 @@ Aug 25 2026), not usage. Ainvest's line: "an access trade, not a privacy trade."
   stabilizing after Friday's nearly-complete giveback of the NU7 pop. Cycle-leaders snapshot: 30d +5.1%,
   200d +297.5%, -60.1% from ATH — still the cleanest of the four reference winners on distance-from-ATH.
   (source: raw/digests/2026-11-08.json, [[digests/2026-11-08]])
-- 2026-11-08 (Five Chains): $1,271, 24h +0.8%, 7d +2.8% (+5.3pp vs BTC, leads the five). Tx 7,740/24h (-15.4% d/d), hashrate 33.8 GSol/s (+2.9%), 978 nodes, median fee $0.025. Friday's -6.3% round-trip reads less like fresh ETF selling and more like a leveraged long flush: of $4.73M in 24h liquidations as of Nov 7, $4.13M (87%) were longs (CoinGlass via CryptoTimes/TokenPost); today's modest bounce is consistent with a cleared-out book, not a broken thesis. NU7 mechanics fully live, uncontested: 75s→25s blocks, Network Sustainability Mechanism recycling 60% of fees into a reserve that doesn't pay out until ~Feb 2031. Zcash dev-funding proposals due 6:59pm ET today (Nov 8), coinholder/community polls run Nov 16-30. (source: raw/chains/2026-11-08.json, web search, [[chains/2026-11-08]])
+- 2026-11-08 (Five Chains): $1,271, 24h +0.8%, 7d +2.8% (+5.3pp vs BTC, leads the five). Tx 7,740/24h (-15.4% d/d), hashrate 33.8 GSol/s (+2.9%), 978 nodes, median fee $0.025. Friday's -6.3% round-trip reads less like fresh ETF selling and more like a leveraged long flush: of $4.73M in 24h liquidations as of Nov 7, $4.13M (87%) were longs (CoinGlass via CryptoTimes/TokenPost); today's modest bounce is consistent with a cleared-out book, not a broken thesis. NU7 mechanics fully live,  uncontested: 75s→25s blocks, Network Sustainability Mechanism recycling 60% of fees into a reserve that doesn't pay out until ~Feb 2031. Zcash dev-funding proposals due 6:59pm ET today (Nov 8), coinholder/community polls run Nov 16-30. (source: raw/chains/2026-11-08.json, web search, [[chains/2026-11-08]])
+- 2026-11-09: Cycle-leaders snapshot: 30d +5.1%, 200d +297.5%, -60.1% from ATH — still the cleanest of the
+  four reference winners on distance-from-ATH, holding up better than NEAR/HYPE on today's broad risk-off
+  day. No fresh price/flow print in today's market-digest pull. (source: raw/digests/2026-11-09.json,
+  [[digests/2026-11-09]])
+- 2026-11-09 (Five Chains): $1,223, 24h -3.9%, 7d -3.0% (+0.9pp vs BTC, a modest second to [[xmr]] in the
+  privacy wars). Tx 9,762/24h (+26.1% d/d), hashrate 33.3 GSol/s (-1.6%), 978 nodes, median fee $0.002,
+  largest visible tx $32.43M. ZCSH flows resolved cleanly: Nov 6 settled +$1.77M (ZecZcash/SoSoValue), the
+  only green day in a mixed stretch (Nov 2 -$3.63M, Nov 3 -$3.58M, Nov 4 +$3.43M, Nov 5 -$10.99M);
+  **November MTD net -$13M across 5 sessions (2 in/3 out)**, net assets $772.08M, cumulative lifetime
+  inflows $208.5M. No fresh NU7 news; mechanics (75s→25s blocks, NSM fee-recycling reserve) remain
+  uncontested. (source: raw/chains/2026-11-09.json, web search, [[chains/2026-11-09]])

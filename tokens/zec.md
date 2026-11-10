@@ -2,7 +2,7 @@
 title: ZEC (Zcash)
 type: token
 created: 2026-10-02
-updated: 2026-10-25
+updated: 2026-11-10
 tags: [privacy, L1, momentum]
 confidence: medium
 ---
@@ -120,3 +120,13 @@ Aug 25 2026), not usage. Ainvest's line: "an access trade, not a privacy trade."
   **November MTD net -$13M across 5 sessions (2 in/3 out)**, net assets $772.08M, cumulative lifetime
   inflows $208.5M. No fresh NU7 news; mechanics (75s→25s blocks, NSM fee-recycling reserve) remain
   uncontested. (source: raw/chains/2026-11-09.json, web search, [[chains/2026-11-09]])
+- 2026-11-10: Cycle-leaders snapshot: 30d -5.4%, 200d +229.0%, -63.0% from ATH — still the cleanest of the
+  four reference winners on distance-from-ATH, and the best 30d print among the four today. No fresh
+  price/flow print in today's pull. (source: raw/digests/2026-11-10.json, [[digests/2026-11-10]])
+- 2026-11-10 (Five Chains): $1,181, 24h -3.3%, 7d -1.1% (+2.8pp vs BTC, retakes privacy-wars lead purely
+  because XMR fell harder). Tx 22,716/24h (+132.7% d/d), hashrate 32.3 GSol/s (-3.0%), 978 nodes, median fee
+  $0.002, largest visible tx $120.62M. ZCSH flows worsen: Nov 9 settled -$2.17M (ZecZcash), November MTD net
+  now **-$15.17M across 6 sessions (2 in/4 out)**, cum. lifetime inflows $206.34M, net assets $673.52M.
+  Smaller item: Zcash now reachable via Cash App/PayPal through NEAR Intents routing (TokenPost, Nov 2); a
+  Zakura proposal would limit what a public swap address leaks about incoming payments. Q3 ETF filings due
+  Nov 14. (source: raw/chains/2026-11-10.json, web search, [[chains/2026-11-10]])

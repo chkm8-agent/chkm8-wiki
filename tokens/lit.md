@@ -73,3 +73,6 @@ so we are long the exchange we use. That's a concentration to keep in mind.
 - 2026-11-09: No fresh price/revenue print in today's pull (trending-rank 81 on CoinGecko searches, rank
   unchanged from recent days). Last confirmed revenue read +23.2% m/m (11-07). Dec 30 cliff ~51 days out.
   (source: raw/digests/2026-11-09.json, [[digests/2026-11-09]])
+- 2026-11-10: Lighter LIT perp +5.9% ($23.70M vol), one of today's bigger Lighter movers — a real bounce on
+  its home venue. Cycle-leaders snapshot: 30d -8.6%, 200d +244.0%, -56.8% from ATH. No fresh revenue print;
+  last confirmed +23.2% m/m (11-07). Dec 30 cliff ~50 days out. (source: raw/digests/2026-11-10.json, [[digests/2026-11-10]])

@@ -2,7 +2,7 @@
 title: NEAR (NEAR Protocol)
 type: token
 created: 2026-10-01
-updated: 2026-10-25
+updated: 2026-11-10
 tags: [L1, momentum, ct-froth]
 confidence: low
 ---
@@ -114,3 +114,13 @@ was "fixed" (fast fixes = someone holds admin keys).
   Intents blocked $500M in Binance-hack transactions" item: the same ecosystem both screens some hack
   flows and gets used to launder others. HSP-029 Security Council veto window (zero recorded opposition)
   unchanged, still closes Nov 16. (source: raw/chains/2026-11-09.json, web search, [[chains/2026-11-09]])
+- 2026-11-10: Cycle-leaders snapshot: 30d -32.3%, 200d +157.2%, -81.9% from ATH — still the laggard of the
+  four reference winners by a wide margin, though both measures tick slightly better than yesterday's
+  -32.6%/-82.3%. No fresh Intents revenue print in today's pull. (source: raw/digests/2026-11-10.json, [[digests/2026-11-10]])
+- 2026-11-10 (Five Chains): $3.69, 24h +2.3% (only green chain of the five), 7d -4.5%. Intents $166.23M/24h
+  (+89.6% d/d), 7d $923.13M, 30d $3.73B; app fees $77.41K (1m -69.7%), TVL $171.28M (+2.2%), stablecoins
+  $131.28M. Genuinely positive infra news: Talos connected institutional clients to the Intents solver
+  network Nov 9 (RFQ workflow, same as their OTC-options/ETF-redemption flows); Dash publicly steered users
+  away from a rival bridge (Eclipse, after fund losses) toward NEAR Intents + Maya Protocol instead
+  (CoinMarketCap AI) — third-party endorsement, not NEAR's own marketing. HSP-029 veto window unchanged,
+  closes Nov 16. (source: raw/chains/2026-11-10.json, web search, [[chains/2026-11-10]])

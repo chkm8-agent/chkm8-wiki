@@ -548,6 +548,22 @@
 - signals.json unchanged: no new entries (KITE short and PYTH long stay open from 11-01/11-06)
 - Send status: sent
 
+## [2026-11-10] ingest | Market digest 2026-11-10
+- Web research: JUP (Jupiter) checked as candidate, disqualified: Litterbox Trust buyback is real and live
+  since Feb 2025 (~134M JUP burned lifetime per Jupiter docs), but November 2026 print shows only $1.12M
+  protocol income, $331K bought back, and just $3.99K actually burned this month (29.4% buyback ratio,
+  burn negligible) — mostly accumulate-not-burn right now (MrNasdog: trust added 24.63M JUP since Aug 11
+  with no fresh burn event)
+- ONDO (Ondo Finance) checked as candidate, disqualified: real tokenized-RWA business (#1 of 203 platforms
+  per RWA.xyz, $4B+ tokenized assets, Nov 5 milestone), but ONDO has zero fee switch/buyback/burn/staking
+  (governance-only per Ondo's own docs) and a 35%-of-float unlock (1.71B ONDO) lands Jan 18 2027 with
+  nothing offsetting it
+- No new spot/perps candidates today (0 candidates, 4th straight day): JUP/ONDO fail cycle-playbook screens
+  on revenue thinness/burn-vs-accumulate and zero accrual + unlock overhang
+- Files updated: tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, index.md, log.md
+- signals.json unchanged: no new entries (KITE short and PYTH long stay open from 11-01/11-06)
+- Send status: sent
+
 ## [2026-11-09] ingest | Five Chains 2026-11-09
 - Web research: BTC ETF -$1.28B week fully confirmed/dated (Yahoo Finance, TokenPost, Mitrade via
   SoSoValue/Farside); 2026 YTD flows now -$828M to -$914M depending on tracker
@@ -565,4 +581,26 @@
 - Files created: chains/2026-11-09.md
 - Files updated: tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md, index.md
   (Five Chains section + page count 84→85), log.md
+- Send status: sent
+
+## [2026-11-10] ingest | Five Chains 2026-11-10
+- Web research: BTC ETF -$1.28B week context repeated briefly, no new flow print; BIP-54 ("Great
+  Consensus Cleanup") covenant context carried forward, no fresh news
+- ETH: EF's own Nov 9 blog update (blog.ethereum.org) walks back any sense Hoodi is close — 4 new
+  contract-breaking reports since Friday's post, Dedaub/ChainSecurity audits due Nov 13, ACDC #191
+  (Nov 12) does NOT have 8037/8038 on its agenda, ACDE #249 (Nov 19) is the real decision point
+  ("no decision pre-committed"); RockLogic's outside estimate: Q1 2027 mainnet at the earliest
+- NEAR: genuinely positive infra news for once — Talos connected institutional RFQ clients to the
+  Intents solver network (Nov 9); Dash publicly steered users away from a rival bridge (Eclipse,
+  after fund losses) toward NEAR Intents + Maya Protocol instead (CoinMarketCap AI)
+- ZEC: ZCSH flows worsen, Nov 9 settled -$2.17M, November MTD net -$15.17M (2 in/4 out, from -$13M);
+  smaller item — Zcash reachable via Cash App/PayPal through NEAR Intents routing (TokenPost)
+- XMR: South Korean police's new seized-crypto custody standard explicitly excludes privacy assets
+  like Monero (CoinMarketCap AI, Nov 9) — a government custody carve-out, sharper than past exchange
+  delistings; price -7.1% 24h, worst mover of the five, no XMR-specific catalyst found for the drop
+- No ecosystem radar picks (PIEVERSE still lacks independent corroboration despite a real-looking 7d
+  trend; no usable X/CT samples for NEAR/ZEC/XMR today)
+- Files created: chains/2026-11-10.md
+- Files updated: tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md, index.md
+  (Five Chains section), log.md
 - Send status: sent

@@ -76,3 +76,7 @@ so we are long the exchange we use. That's a concentration to keep in mind.
 - 2026-11-10: Lighter LIT perp +5.9% ($23.70M vol), one of today's bigger Lighter movers — a real bounce on
   its home venue. Cycle-leaders snapshot: 30d -8.6%, 200d +244.0%, -56.8% from ATH. No fresh revenue print;
   last confirmed +23.2% m/m (11-07). Dec 30 cliff ~50 days out. (source: raw/digests/2026-11-10.json, [[digests/2026-11-10]])
+- 2026-11-11: Cycle-leaders snapshot: 30d -8.1%, 200d +265.6%, -57.1% from ATH — best 200d print of the four
+  reference winners, basically flat on 30d. Lighter Perps revenue **+24.7% m/m**, back on DefiLlama's "rising
+  >20%" board, consistent with the +23-28% range held since early November. Fundamentals intact. Dec 30 cliff
+  ~49 days out. (source: raw/digests/2026-11-11.json)

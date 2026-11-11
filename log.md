@@ -583,6 +583,19 @@
   (Five Chains section + page count 84→85), log.md
 - Send status: sent
 
+## [2026-11-11] ingest | Morning digest 2026-11-11
+- GRAM (Toncoin's June rebrand) checked and disqualified — oversold RSI bounce + Durov hype, 247wallst's own
+  data shows Telegram's 700K-wallet surge producing zero net new buying pressure, no accrual mechanism; 5th
+  straight day with 0 new spot candidates
+- ZEC crashes -17.3% 24h/-22.6% 7d below $1,000 — sell-the-news dump the day after a Grayscale front-page ad +
+  $1M ecosystem pledge, $16.5M+ long liquidations, no network issue
+- HYPE revenue improves to -1.6% m/m (from the -7.4% to -18.4% range through October); LIT revenue +24.7% m/m,
+  still on DefiLlama's "rising >20%" board; NEAR still the structural laggard (30d -34.0%, -81.8% from ATH)
+- Book flat $158.36, no open positions; bot's 06:00 PT read NO-TRADE (oversold alts, no breakout, stocks closed)
+- Files created: digests/2026-11-11.md
+- Files updated: tokens/zec.md, tokens/hype.md, tokens/lit.md, tokens/near.md, index.md, log.md
+- Send status: sent
+
 ## [2026-11-10] ingest | Five Chains 2026-11-10
 - Web research: BTC ETF -$1.28B week context repeated briefly, no new flow print; BIP-54 ("Great
   Consensus Cleanup") covenant context carried forward, no fresh news
@@ -603,4 +616,27 @@
 - Files created: chains/2026-11-10.md
 - Files updated: tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md, index.md
   (Five Chains section), log.md
+- Send status: sent
+
+## [2026-11-11] ingest | Five Chains · Nov 11
+- BTC: 4th straight US spot BTC ETF outflow day Nov 10 (-$95M), 2026 YTD net outflows now >$1.1B;
+  IBIT alone -$1.66B over 7 sessions through Nov 9; Corallo repeats ~80% BIP-54 odds (MARA Foundation
+  TV, Nov 4); difficulty est. -6.9%; mildest loser of the five today
+- ETH: Ethlabs (nonprofit research org) now publicly urging core devs to delay setting any new Hoodi
+  date until the ChainSecurity/Dedaub EIP-8037/8038 audits land (due before Nov 16); real decision
+  stays ACDE #249 (Nov 19); worst 7d of the five (-11.3%)
+- NEAR: NEAR AI (the AI product/infra arm, separate trust boundary from NEAR Protocol) disclosed a
+  security breach — attacker used an SGLang RCE bug to pull ~100 users' account details + 18 agents'
+  chat logs, 2 Cloud API keys exposed/revoked; patched same day, NEAR Protocol itself unaffected;
+  price untouched (+0.8%) despite broad market selloff
+- ZEC: crashed -17.4% 24h (low $962.85), lowest since early Sept — one day after Grayscale wrapped
+  the WSJ front page in Zcash branding + pledged $1M to Zcash nonprofits; ZCSH itself flat/red (Nov 9
+  -$2.2M, Nov 10 flat), textbook sell-the-news; by far the worst mover of the five on both legs
+- XMR: +4.7% 24h bounce off yesterday's -7.1% rout, but 7d still -8.8% — reads as technical/oversold
+  bounce (futures OI -7% on a long-heavy leverage flush), not a reversal; Lighter funding flips
+  sharply negative (-0.0200%) vs Binance +0.0100%
+- No ecosystem radar picks (empty X/CT feed for NEAR/ZEC/XMR again)
+- Files created: chains/2026-11-11.md
+- Files updated: tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md, index.md
+  (Five Chains section + page count), log.md
 - Send status: sent

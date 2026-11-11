@@ -2,7 +2,7 @@
 title: NEAR (NEAR Protocol)
 type: token
 created: 2026-10-01
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [L1, momentum, ct-froth]
 confidence: low
 ---
@@ -124,3 +124,9 @@ was "fixed" (fast fixes = someone holds admin keys).
   away from a rival bridge (Eclipse, after fund losses) toward NEAR Intents + Maya Protocol instead
   (CoinMarketCap AI) — third-party endorsement, not NEAR's own marketing. HSP-029 veto window unchanged,
   closes Nov 16. (source: raw/chains/2026-11-10.json, web search, [[chains/2026-11-10]])
+- 2026-11-11: trending #21, +0.6% 24h. Cycle-leaders snapshot: 30d -34.0%, 200d +165.2%, -81.8% from ATH —
+  still the structural laggard of the four reference winners by a wide margin, though both measures tick
+  worse than yesterday's -32.3%/-81.9%. No fresh Intents revenue print in today's pull; yesterday's Talos/Dash
+  endorsements are the most recent positive catalyst. HSP-029 veto window unchanged, closes Nov 16. (source:
+  raw/digests/2026-11-11.json)
+- 2026-11-11 (Five Chains): $3.73, 24h +0.8%, 7d -6.9%. Intents $152.75M/24h (-8.1% d/d), 7d $937.97M, 30d $3.76B; app fees $316.88K (1m +53.1%), TVL $174.82M (+2.1%), stablecoins $131.32M. **NEAR AI (the AI product/infra arm, a separate trust boundary from NEAR Protocol) disclosed a security breach**: an attacker exploited an RCE bug in the open-source SGLang inference engine to reach a deprecated Private Chat feature, pulling account details for ~100 users and chat logs for 18 legacy agents; 2 Cloud customers' API keys were exposed and revoked (The Block, Nov 10). NEAR AI says NEAR Protocol itself was unaffected; vulnerability patched, Cloud restored. Price untouched by the news (+0.8% on a day most of the market sold off hard), suggesting the market correctly reads it as app-layer not protocol-layer. HSP-029 veto window unchanged, closes Nov 16. (source: raw/chains/2026-11-11.json, web search, [[chains/2026-11-11]])

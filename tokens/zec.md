@@ -2,7 +2,7 @@
 title: ZEC (Zcash)
 type: token
 created: 2026-10-02
-updated: 2026-11-10
+updated: 2026-11-11
 tags: [privacy, L1, momentum]
 confidence: medium
 ---
@@ -130,3 +130,12 @@ Aug 25 2026), not usage. Ainvest's line: "an access trade, not a privacy trade."
   Smaller item: Zcash now reachable via Cash App/PayPal through NEAR Intents routing (TokenPost, Nov 2); a
   Zakura proposal would limit what a public swap address leaks about incoming payments. Q3 ETF filings due
   Nov 14. (source: raw/chains/2026-11-10.json, web search, [[chains/2026-11-10]])
+- 2026-11-11: **-17.3% 24h, -22.6% 7d** (CoinGecko top loser among the 100 largest, per Cointelegraph), broke
+  below $1,000 for the first time since September (low $962.85). Comes one day after Grayscale ran a front-page
+  newspaper ad ("The Zcash $ZEC takeover") and pledged $1M to Zcash nonprofits/ecosystem projects — a textbook
+  sell-the-news dump on good news. $16.5M+ in leveraged-long liquidations (Pluang), ZCSH posted a -$2.2M outflow
+  Nov 9 and flat on Nov 10 (247wallst via Grayscale fund data). No technical/network issue reported; NU7 mechanics
+  unaffected. Trades below both its 20-day MA (~$1,228) and 50-day MA (~$1,289) — most recent buyers underwater.
+  Cycle-leaders snapshot: 30d -24.4%, 200d +172.7%, -69.4% from ATH — worst 30d print of the four reference
+  winners today. (sources: cointelegraph.com, lcx.com, 247wallst.com, tokenpost.com, pluang.com — all Nov 11)
+- 2026-11-11 (Five Chains): $977.4, 24h -17.4%, 7d -23.9% (by far the worst of the five both legs). Tx 19,345/24h (-14.8% d/d), hashrate 33.5 GSol/s (+3.8%), 978 nodes, median fee $0.002, largest visible tx $105.82M. Confirms yesterday's crash: ZEC traded as low as $962.85 (Cointelegraph), lowest since early Sept — one day after Grayscale wrapped the WSJ front page in Zcash branding, launched "Zcash Invest," and pledged $1M to Zcash nonprofits/dev orgs (The Block via cryptoticker.io/247wallst.com/coin360). ZCSH itself posted -$2.2M Nov 9 and flat Nov 10 — the marketing blitz hasn't shown up as ETF inflows. Textbook sell-the-news, stacked on an already-weak month (down ~24.5% over two weeks, was $1,370+ last Friday on NU7). No technical/network issue; NU7 mechanics unaffected. Below both 20-day MA (~$1,228) and 50-day MA (~$1,289). (source: raw/chains/2026-11-11.json, web search, [[chains/2026-11-11]])

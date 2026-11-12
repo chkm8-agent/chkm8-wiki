@@ -2,7 +2,7 @@
 title: NEAR (NEAR Protocol)
 type: token
 created: 2026-10-01
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [L1, momentum, ct-froth]
 confidence: low
 ---
@@ -130,3 +130,8 @@ was "fixed" (fast fixes = someone holds admin keys).
   endorsements are the most recent positive catalyst. HSP-029 veto window unchanged, closes Nov 16. (source:
   raw/digests/2026-11-11.json)
 - 2026-11-11 (Five Chains): $3.73, 24h +0.8%, 7d -6.9%. Intents $152.75M/24h (-8.1% d/d), 7d $937.97M, 30d $3.76B; app fees $316.88K (1m +53.1%), TVL $174.82M (+2.1%), stablecoins $131.32M. **NEAR AI (the AI product/infra arm, a separate trust boundary from NEAR Protocol) disclosed a security breach**: an attacker exploited an RCE bug in the open-source SGLang inference engine to reach a deprecated Private Chat feature, pulling account details for ~100 users and chat logs for 18 legacy agents; 2 Cloud customers' API keys were exposed and revoked (The Block, Nov 10). NEAR AI says NEAR Protocol itself was unaffected; vulnerability patched, Cloud restored. Price untouched by the news (+0.8% on a day most of the market sold off hard), suggesting the market correctly reads it as app-layer not protocol-layer. HSP-029 veto window unchanged, closes Nov 16. (source: raw/chains/2026-11-11.json, web search, [[chains/2026-11-11]])
+- 2026-11-12: Cycle-leaders snapshot: 30d -33.7%, 200d +142.4%, -83.3% from ATH — worst 30d and ATH read of the
+  four reference winners again, still the structural laggard by a wide margin. NEAR perp -10.2% on Lighter
+  ($5.88M vol), one of the day's biggest movers, as broad market risk-off hits everything (breadth 14/138 green).
+  No fresh Intents revenue or HSP-029 news in today's pull. (source: raw/chains/2026-11-12.json, [[chains/2026-11-12]])
+- 2026-11-12 (Five Chains): $3.38, 24h -9.2% (today's biggest 24h loser of the five, broad risk-off day), 7d -13.8%. Intents $113.12M/24h (-25.9% d/d), 7d $907.12M, 30d $3.73B; app fees $252.02K, TVL $164.44M (-5.9% d/d), stablecoins $132.14M. Two items: ML-DSA (post-quantum) signed accounts now live on mobile, extending NEP-655 (TokenPost); and NEAR AI (the separate AI product arm) has **paused cloud inference entirely** as a precaution following yesterday's SGLang RCE breach disclosure — hole closed but service not yet restored, NEAR Protocol itself still reported unaffected (TokenPost). HSP-029 veto window still closes Nov 16. (source: raw/chains/2026-11-12.json, web search, [[chains/2026-11-12]])

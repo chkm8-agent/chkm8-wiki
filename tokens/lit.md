@@ -80,3 +80,7 @@ so we are long the exchange we use. That's a concentration to keep in mind.
   reference winners, basically flat on 30d. Lighter Perps revenue **+24.7% m/m**, back on DefiLlama's "rising
   >20%" board, consistent with the +23-28% range held since early November. Fundamentals intact. Dec 30 cliff
   ~49 days out. (source: raw/digests/2026-11-11.json)
+- 2026-11-12: Cycle-leaders snapshot: 30d -7.6%, 200d +233.8%, -60.4% from ATH. Lighter Perps revenue
+  **+21.8% m/m**, still on DefiLlama's "rising >20%" board. Lighter's own LIT perp -8.6% today ($13.15M vol,
+  one of the board's biggest movers) — price diverging from the still-intact revenue line on a broad risk-off
+  day (breadth 14/138 green). Dec 30 cliff ~48 days out. (source: raw/digests/2026-11-12.json, [[digests/2026-11-12]])

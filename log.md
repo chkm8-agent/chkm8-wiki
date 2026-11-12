@@ -640,3 +640,36 @@
 - Files updated: tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md, index.md
   (Five Chains section + page count), log.md
 - Send status: sent
+
+## [2026-11-12] ingest | Market digest · Nov 12
+- Breadth craters to 14/138 green (from 44/135) in the sharpest one-day risk-off in weeks: total mcap
+  -5.4% 24h, BTC -2.7%/-9.0% 7d, ETH -2.5%/-16.0% 7d; no single trigger identified
+- JST (JUST/TRON) screened: real buyback/burn mechanism (5 rounds since Oct 2025, ~19.01% of initial
+  issuance burned, $100M+ committed, funded by JustLend Q3 net income $9.28M + GasFree revenue) but
+  disqualified on (1) no fresh catalyst today (last burn Oct 16, already priced) and (2) centralization
+  — TRON/Justin Sun-controlled governance (sources: fidelity.com, bitget.com, kxan.com)
+- NIGHT (Midnight) rechecked for a 2nd time, still disqualified: no burn mechanism, ~2.78% of 24B supply
+  still thawing through Dec 5, open-ended Reserve emissions once block production starts (sources:
+  tokenomist.ai, tokenradar.ai) — 6th straight day with 0 new spot candidates
+- Sector-rotation whiplash: yesterday's Prediction Markets/Options/Lending leadership (+6-7.5%) flips
+  hard into today's worst laggards (-9.5% to -11.0%); Payment Solutions unexpectedly leads (+8.2%),
+  unexplained, flagged for a second-day check
+- Reference winners: HYPE revenue -3.6% m/m (from -1.6%), LIT revenue +21.8% m/m (intact), ZEC's crash
+  pauses (-0.5% 24h per trending feed), NEAR stays the structural laggard (-83.3% from ATH)
+- Book flat $158.36, no open positions; bot's 06:00 PT call stayed NO-TRADE (broad sell-off, RSI~30)
+- Files created: digests/2026-11-12.md
+- Files updated: tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, index.md, log.md. No
+  signals.json changes (no qualifying candidate).
+- Send status: sent
+
+## [2026-11-12] ingest | Five Chains 2026-11-12
+- Created chains/2026-11-12.md: market-wide risk-off deepens (Nvidia CEO turmoil + MSCI dropping
+  Strategy from global indexes); ZEC still below $1,000, ETF outflows ~$30M November-to-date, new ZIP
+  would cut 50,000 ZEC from Zcash Community Grants treasury (polling Nov 16-30); ETH Hoodi delay now
+  has a formal calendar (audits Nov 13, ACDT Q&A Nov 16, ACDE decision Nov 19); NEAR ships ML-DSA
+  mobile accounts, NEAR AI pauses cloud inference entirely as a follow-on to yesterday's breach; XMR
+  faces a dated MEXC spot delisting Nov 13. No ecosystem radar picks (no usable X/CT samples again).
+- Updated tokens/near.md, tokens/zec.md, tokens/btc.md, tokens/eth.md, tokens/xmr.md (dated Log entries
+  + bumped `updated` frontmatter), index.md (Five Chains section + page count 86->87), log.md.
+- No signals.json changes (no qualifying ecosystem radar pick).
+- Send status: sent (via research/digest_send.py --kind chains)

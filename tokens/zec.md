@@ -2,7 +2,7 @@
 title: ZEC (Zcash)
 type: token
 created: 2026-10-02
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [privacy, L1, momentum]
 confidence: medium
 ---
@@ -139,3 +139,8 @@ Aug 25 2026), not usage. Ainvest's line: "an access trade, not a privacy trade."
   Cycle-leaders snapshot: 30d -24.4%, 200d +172.7%, -69.4% from ATH — worst 30d print of the four reference
   winners today. (sources: cointelegraph.com, lcx.com, 247wallst.com, tokenpost.com, pluang.com — all Nov 11)
 - 2026-11-11 (Five Chains): $977.4, 24h -17.4%, 7d -23.9% (by far the worst of the five both legs). Tx 19,345/24h (-14.8% d/d), hashrate 33.5 GSol/s (+3.8%), 978 nodes, median fee $0.002, largest visible tx $105.82M. Confirms yesterday's crash: ZEC traded as low as $962.85 (Cointelegraph), lowest since early Sept — one day after Grayscale wrapped the WSJ front page in Zcash branding, launched "Zcash Invest," and pledged $1M to Zcash nonprofits/dev orgs (The Block via cryptoticker.io/247wallst.com/coin360). ZCSH itself posted -$2.2M Nov 9 and flat Nov 10 — the marketing blitz hasn't shown up as ETF inflows. Textbook sell-the-news, stacked on an already-weak month (down ~24.5% over two weeks, was $1,370+ last Friday on NU7). No technical/network issue; NU7 mechanics unaffected. Below both 20-day MA (~$1,228) and 50-day MA (~$1,289). (source: raw/chains/2026-11-11.json, web search, [[chains/2026-11-11]])
+- 2026-11-12: Cycle-leaders snapshot: 30d -24.4% (unchanged from 11-11), 200d +173.4%, -69.5% from ATH — worst
+  30d print of the four reference winners again. CoinGecko trending feed shows only -0.5% 24h today — the
+  crash appears to have paused rather than extending into a second leg down, on a broad market-wide risk-off
+  day that hit everything else harder. (source: raw/digests/2026-11-12.json, [[chains/2026-11-12]])
+- 2026-11-12 (Five Chains): $963.4, 24h -1.5%, 7d -25.8% (-15.6pp vs BTC, by far the worst of the five). Tx 12,303/24h (-36.4% d/d), hashrate 30.7 GSol/s (-8.4% d/d), nodes 978, median fee $0.022, largest visible tx $77.33M. Still below $1,000 (traded $950-$1,020 intraday). ZCSH lost $14.61M Wed (SoSoValue), worst single day since Oct 15; November net outflows now ~$30M, net assets down to ~$562-675M (sources disagree, unreconciled). ~$18M liquidations, 72% long. **New: draft ZIP (Bowe/Wilcox/McGee, merged Nov 11) would strip 50,000 ZEC from the Zcash Community Grants treasury and end ZCG's 8% block-reward cut** — polling Nov 16-30. Grayscale pledging 100% of ZCSH sponsor fees + $1M to dev orgs hasn't moved ETF flows yet. (source: raw/chains/2026-11-12.json, web search, [[chains/2026-11-12]])

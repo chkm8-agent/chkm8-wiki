@@ -2,3 +2,4 @@
 (?i)\bDAO income\b
 (?i)\bsystem income\b
 (?i)\bprotocol income\b
+(?i)\bJustLend(?:'s)?(?: Q3)? net income\b

@@ -673,3 +673,33 @@
   + bumped `updated` frontmatter), index.md (Five Chains section + page count 86->87), log.md.
 - No signals.json changes (no qualifying ecosystem radar pick).
 - Send status: sent (via research/digest_send.py --kind chains)
+
+## [2026-11-13] ingest | Market digest 2026-11-13
+- Breadth snaps back to 87/139 green (from 14/138) on a broad relief bounce; total mcap still -5.8% 24h,
+  BTC -3.7%/-8.5% 7d, ETH -2.7%/-12.0% 7d — read as a bounce inside the downtrend, not a reversal
+- EDGE (edgeX) screened: real/improving buyback-and-burn (51.4M EDGE burned, 14.66% of circ supply, new
+  quarterly buyback policy announced Nov 12) but disqualified on protocol revenue collapsing -73% m/m
+  (Jun $5.64M/mo -> Nov $449K per RootData) — fails the mandatory revenue-growth gate
+- BTSE Token screened: 2019-era whitepaper promised 30%-of-revenue buyback-and-burn, but BTSE's own Dec 30
+  2025 treasury update confirmed it is not issuing or burning tokens with no near-term plans to — stale
+  marketing, not an active mechanism; disqualified
+- OZO (Ozone Chain) screened: +67.4% 30d (today's #2 cycle-leader) but publishes no protocol fee, revenue,
+  TVL or user data anywhere; no accrual mechanism exists to screen; disqualified — 7th straight day with
+  0 new spot candidates
+- Sector-rotation note: yesterday's unexplained Payment Solutions +8.2% leader round-trips to today's -7.0%
+  laggard, confirming it was noise, not a rotation
+- Reference winners: HYPE revenue -4.6% m/m (from -3.6%), LIT best of the four (+7.3% 24h, 30d +5.2%,
+  revenue last read +21.8% m/m holds), ZEC still worst 30d/ATH of the four below $1,000, NEAR structural
+  laggard improves slightly to -82.6% from ATH
+- Book flat $158.36, no open positions; bot's 06:00 PT call stayed NO-TRADE (oversold, late to short, no
+  confirmed breakout) / KEEP-PAUSE-AUTO (BTC new lows, majors below 4h EMAs)
+- Files created: digests/2026-11-13.md
+- Files updated: tokens/hype.md, tokens/lit.md, tokens/zec.md, tokens/near.md, index.md, log.md. No
+  signals.json changes (no qualifying candidate).
+- Send status: sent
+
+## [2026-11-13] ingest | Five Chains 2026-11-13
+- Created: chains/2026-11-13.md
+- Updated: tokens/btc.md, tokens/eth.md, tokens/xmr.md, tokens/near.md, tokens/zec.md, index.md
+- No signals.json changes (no qualifying ecosystem-radar candidate; X/CT feed empty again for NEAR/ZEC/XMR)
+- Send status: sent

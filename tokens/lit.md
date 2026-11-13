@@ -2,7 +2,7 @@
 title: LIT (Lighter)
 type: token
 created: 2026-09-30
-updated: 2026-10-25
+updated: 2026-11-13
 tags: [perps-dex, traded, momentum]
 confidence: low
 ---
@@ -84,3 +84,8 @@ so we are long the exchange we use. That's a concentration to keep in mind.
   **+21.8% m/m**, still on DefiLlama's "rising >20%" board. Lighter's own LIT perp -8.6% today ($13.15M vol,
   one of the board's biggest movers) — price diverging from the still-intact revenue line on a broad risk-off
   day (breadth 14/138 green). Dec 30 cliff ~48 days out. (source: raw/digests/2026-11-12.json, [[digests/2026-11-12]])
+- 2026-11-13: **+7.3% 24h** (-1.3% 7d), the biggest green move among the majors today; cycle-leaders snapshot
+  30d **+5.2%** (best of the four reference winners), 200d +280.3%, -57.5% from ATH. Lighter LIT perp also
+  +6.2% ($15.66M vol) on today's board. No fresh Lighter-specific revenue print in today's pull; last
+  confirmed +21.8% m/m (11-12) stands. Price and fundamentals finally pointing the same direction for a
+  2nd day. Dec 30 cliff ~47 days out. (source: raw/digests/2026-11-13.json, [[digests/2026-11-13]])

@@ -2,7 +2,7 @@
 title: NEAR (NEAR Protocol)
 type: token
 created: 2026-10-01
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [L1, momentum, ct-froth]
 confidence: low
 ---
@@ -134,4 +134,9 @@ was "fixed" (fast fixes = someone holds admin keys).
   four reference winners again, still the structural laggard by a wide margin. NEAR perp -10.2% on Lighter
   ($5.88M vol), one of the day's biggest movers, as broad market risk-off hits everything (breadth 14/138 green).
   No fresh Intents revenue or HSP-029 news in today's pull. (source: raw/chains/2026-11-12.json, [[chains/2026-11-12]])
-- 2026-11-12 (Five Chains): $3.38, 24h -9.2% (today's biggest 24h loser of the five, broad risk-off day), 7d -13.8%. Intents $113.12M/24h (-25.9% d/d), 7d $907.12M, 30d $3.73B; app fees $252.02K, TVL $164.44M (-5.9% d/d), stablecoins $132.14M. Two items: ML-DSA (post-quantum) signed accounts now live on mobile, extending NEP-655 (TokenPost); and NEAR AI (the separate AI product arm) has **paused cloud inference entirely** as a precaution following yesterday's SGLang RCE breach disclosure — hole closed but service not yet restored, NEAR Protocol itself still reported unaffected (TokenPost). HSP-029 veto window still closes Nov 16. (source: raw/chains/2026-11-12.json, web search, [[chains/2026-11-12]])
+- 2026-11-12 (Five Chains): $3.38, 24h -9.2% (today's biggest 24h loser of the five, broad risk-off day), 7d -13.8%. Intents $113.12M/24h (-25.9% d/d), 7d $907.12M, 30d $3.73B; app fees $252.02K, TVL $164.44M (-5.9% d/d), stablecoins $132.14M. Two items: ML-DSA (post-quantum) signed accounts now live on mobile, extending NEP-655 (TokenPost); and NEAR AI (the separate AI product arm) has **paused cloud inference entirely** as a precaution following yesterday's SGLang RCE breach disclosure — hole closed but service not yet restored, NEAR Protocol itself still reported unaffected (TokenPost). HSP-029 veto window still closes Nov 16. (source: raw/digests/2026-11-12.json, web search, [[chains/2026-11-12]])
+- 2026-11-13: Cycle-leaders snapshot: 30d -28.2% (improved from -33.7%), 200d +159.4%, -82.6% from ATH — a
+  touch better than yesterday but still the structural laggard of the four reference winners by a wide
+  margin. No fresh Intents revenue print in today's pull. HSP-029 Security Council veto window still closes
+  Nov 16. (source: raw/digests/2026-11-13.json, [[digests/2026-11-13]])
+- 2026-11-13 (Five Chains): $3.52, 24h +4.1% (only green chain of the five today), 7d -4.4% (+4.7pp vs BTC). Intents $176.44M/24h (+56.0% d/d), 7d $952.54M, 30d $3.77B; app fees $273.54K (1m +8.0%), TVL $165.55M (+0.7% d/d), stablecoins $130.59M. HSP-029 veto window (3.29M veNEAR yes, zero recorded opposition) still closes Nov 16; a fresh independent breakdown (Unlocks.app) confirms even an unopposed pass still needs a 90-day grace period plus a validator-adopted nearcore release before issuance actually drops — no such release exists as of today. The two combined 2025+2026 issuance cuts would keep ~196M NEAR out of supply by 2030 per the same analysis. (source: raw/chains/2026-11-13.json, web search, [[chains/2026-11-13]])

@@ -2,7 +2,7 @@
 title: ZEC (Zcash)
 type: token
 created: 2026-10-02
-updated: 2026-11-12
+updated: 2026-11-13
 tags: [privacy, L1, momentum]
 confidence: medium
 ---
@@ -143,4 +143,9 @@ Aug 25 2026), not usage. Ainvest's line: "an access trade, not a privacy trade."
   30d print of the four reference winners again. CoinGecko trending feed shows only -0.5% 24h today — the
   crash appears to have paused rather than extending into a second leg down, on a broad market-wide risk-off
   day that hit everything else harder. (source: raw/digests/2026-11-12.json, [[chains/2026-11-12]])
-- 2026-11-12 (Five Chains): $963.4, 24h -1.5%, 7d -25.8% (-15.6pp vs BTC, by far the worst of the five). Tx 12,303/24h (-36.4% d/d), hashrate 30.7 GSol/s (-8.4% d/d), nodes 978, median fee $0.022, largest visible tx $77.33M. Still below $1,000 (traded $950-$1,020 intraday). ZCSH lost $14.61M Wed (SoSoValue), worst single day since Oct 15; November net outflows now ~$30M, net assets down to ~$562-675M (sources disagree, unreconciled). ~$18M liquidations, 72% long. **New: draft ZIP (Bowe/Wilcox/McGee, merged Nov 11) would strip 50,000 ZEC from the Zcash Community Grants treasury and end ZCG's 8% block-reward cut** — polling Nov 16-30. Grayscale pledging 100% of ZCSH sponsor fees + $1M to dev orgs hasn't moved ETF flows yet. (source: raw/chains/2026-11-12.json, web search, [[chains/2026-11-12]])
+- 2026-11-12 (Five Chains): $963.4, 24h -1.5%, 7d -25.8% (-15.6pp vs BTC, by far the worst of the five). Tx 12,303/24h (-36.4% d/d), hashrate 30.7 GSol/s (-8.4% d/d), nodes 978, median fee $0.022, largest visible tx $77.33M. Still below $1,000 (traded $950-$1,020 intraday). ZCSH lost $14.61M Wed (SoSoValue), worst single day since Oct 15; November net outflows now ~$30M, net assets down to ~$562-675M (sources disagree, unreconciled). ~$18M liquidations, 72% long. **New: draft ZIP (Bowe/Wilcox/McGee, merged Nov 11) would strip 50,000 ZEC from the Zcash Community Grants treasury and end ZCG's 8% block-reward cut** — polling Nov 16-30. Grayscale pledging 100% of ZCSH sponsor fees + $1M to dev orgs hasn't moved ETF flows yet. (source: raw/digests/2026-11-12.json, web search, [[chains/2026-11-12]])
+- 2026-11-13: Cycle-leaders snapshot: 30d -20.8% (improved from -24.4%), 200d +168.9%, -70.0% from ATH — still
+  the worst 30d/ATH read of the four reference winners. No fresh price/flow print in today's pull; last
+  confirmed below $1,000, November net outflows ~$30M. Draft ZIP to strip 50,000 ZEC from the Community Grants
+  treasury still polling Nov 16-30.
+- 2026-11-13 (Five Chains): $948.6, 24h -1.6%, 7d -27.2% (-18.1pp vs BTC, by far the worst of the five). Tx 10,808/24h (-12.2% d/d), hashrate 31.3 GSol/s (+1.9% d/d), nodes 978, median fee $0.007, largest visible tx $46.46M. ZCSH logged another outflow Thursday, -$9.88M (SoSoValue via Gate/TokenPost/ChainCatcher), the sole red product that day; fund holds $526M net assets vs $182M cumulative lifetime inflows (3.24% of ZEC's mcap). **The ZCG treasury-cut ZIP now has a confirmed polling window, Nov 16-30**: coinholders/panels vote on the draft from Sean Bowe, Zooko Wilcox and Jason McGee (merged Nov 11) that would end ZCG's 8% block-reward cut (routing it to a new legal-defense fund) and force a 50,000 ZEC (~55% of ZCG's treasury, ~$49-50M) burn into the Network Sustainability Mechanism; advisory, no ZIP number or activation height yet, ballot includes a "keep ZCG unchanged" option. (source: raw/chains/2026-11-13.json, web search, [[chains/2026-11-13]]) (source: raw/digests/2026-11-13.json, [[digests/2026-11-13]])

@@ -2,7 +2,7 @@
 title: HYPE (Hyperliquid)
 type: token
 created: 2026-10-02
-updated: 2026-10-25
+updated: 2026-11-13
 tags: [perps-dex, defi, unlock-risk]
 confidence: medium
 ---
@@ -58,3 +58,8 @@ Narrative: [[defi-revenue]].
 - 2026-11-10: $73.32 (-3.5% 24h). Cycle-leaders snapshot: 30d -13.8%, 200d +78.8%, -25.2% from ATH — weakest 30d read in weeks. No fresh revenue print; last confirmed -7.4% m/m (11-07). Fading. (source: raw/digests/2026-11-10.json, [[digests/2026-11-10]])
 - 2026-11-11: $72.72 (-0.9% 24h, -13.4% 7d). 200d +75.5%, -25.7% from ATH. Hyperliquid Perps revenue **-1.6% m/m** per today's protocol-revenue pull — a genuine improvement from the -7.4% to -18.4% range tracked through most of October; fundamentals stabilizing even as price keeps bleeding. Intact, improving. (source: raw/digests/2026-11-11.json)
 - 2026-11-12: $70.62 (-2.6% 24h, -14.1% 7d). 30d -13.8%, 200d +71.2%, -27.8% from ATH. Hyperliquid Perps revenue **-3.6% m/m** — a step back from yesterday's -1.6% but still far better than October's -18% trough. Tracking the broad market-wide risk-off (breadth 14/138 green). Intact, choppy. (source: raw/digests/2026-11-12.json, [[digests/2026-11-12]])
+- 2026-11-13: +4.2% 24h, 30d -8.2%, 200d +74.4%, -24.7% from ATH — best 24h move among the majors on today's
+  broad relief bounce (breadth 14/138 → 87/139 green). Hyperliquid Perps revenue **-4.6% m/m**, a touch worse
+  than yesterday's -3.6% but still inside the post-October improved range. Hyperliquid L1 TVL the one chain
+  still growing today (+3.6%) while every other major chain's TVL fell. Intact, choppy. (source:
+  raw/digests/2026-11-13.json, [[digests/2026-11-13]])
